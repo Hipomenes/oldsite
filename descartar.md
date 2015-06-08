@@ -1,12 +1,12 @@
 ---
 layout: page
-title: About
+title: Archive
 ---
 
 <p class="message">
-  "Mientras haya fulminante, fuego fuego y adelante."
+  "Previous posts"
 </p>
 
-These are the notes and musings of David Horacio Colmenares, graduate student at Columbia University, and currently Connecting Art Histories in the Museum Fellow in Berlin. Please contact me [here](http://academia.edu).
-
-David, 2015
+{% for post in site.posts %}
+  * {{ post.date | date_to_string }} &raquo; [ {{ post.title }} ]({{ post.url }})
+{% endfor %}
