@@ -1,6 +1,7 @@
 ---
 layout: post
 title: Quintale's Sensorial landscapes
+category: glimpses
 ---
 
 An excerpt of *Una americana* can be found [here](http://www.letraslibres.com/revista/poemas/una-americana-fragmento). And here's a [review](http://www.periodicodepoesia.unam.mx/index.php?option=com_content&task=view&id=3684&Itemid=88) in the UNAM's excellent Periódico de Poesía. 
