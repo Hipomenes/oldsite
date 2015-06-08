@@ -8,17 +8,17 @@ permalink:        pretty
 # Setup
 title:            Anagogias
 tagline:          'Fragments and figments'
-description:      'Blog by <a href="http://academia.edu" target="_blank">DH Colmenares</a>. Design by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
-url:              http://lanyon.getpoole.com
+description:      'All content by <a href="https://twitter.com/dhcolmenares" target="_blank">@dhcolmenares</a>. Design by <a href="https://twitter.com/mdo" target="_blank">@mdo</a>.'
+url:              http://hipomenes.github.io
 
 author:
-  name:           'Mark Otto'
-  url:            https://twitter.com/mdo
+  name:           'DH Colmenares'
+  url:            https://twitter.com/dhcolmenares
 
 paginate:         5
 
 # Custom vars
-version:          2.0.0
+version:          2.0
 
 github:
   repo:           https://github.com/poole/lanyon
