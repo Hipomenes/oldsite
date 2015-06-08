@@ -1,1 +1,1 @@
----layout: categorycategory: glimpses---
+---layout: categorycategory: Glimpses---
