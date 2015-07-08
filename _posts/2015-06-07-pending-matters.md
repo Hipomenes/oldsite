@@ -1,15 +1,15 @@
 ---
 layout: post
-title: Modification 
+title: The Structure of this Blog 
 ---
 
-These are some of the issues and improvements of the site I need to address:
+<div class="message">
+  In this post I will describe principles behind this personal weblog, as well as things I plan to implement as I learn a bit more about Jekyll, and basic CSS and HTML.
+</div>: 
 
-* Use systematically the following 4 categories: **Musings**, **Glimpses**, **Curiositas**, and **Rewritings**
-* Add Category indexes to the sidebar
-* Show only most recent post in Home
-* Consider adding Disqus support
-* Develop the About page
-* Reconsider having an Archive page
+* Every posts will fall within this 4 categories: **Musings**, **Glimpses**, **Curiositas**, and **Rewritings**. The first refers to notes and writings, the second is nothing but a [Commonplace book](http://www.nybooks.com/articles/archives/2000/dec/21/extraordinary-commonplaces/), the third is the log of my curiosity and is inspired by [Cosma R. Shalizi's Notebooks](http://bactra.org/notebooks/). The fourth is a little experiment of the age-old practice of copying, reformulating and plagiarizing.  
+* This blog focus entirely on content, so the design will remain barebones. I will add an Archive or a Category Index to the sidebar, basic contact information, and nothing else. 
+* While Anagogias 1.0 is gone for good, I still fully endorse Andrew Simone's ["Just Enough is More"](https://github.com/asimone/justenoughismore) aesthetics and rationale. So I won't implement tags, tag-clouds, calendars, and will stick to [Poole/Lanyon's](http://getpoole.com) "Related Post" function. When I learn how to do it, I will make sure that the Home page shows only the most recent post.
+* The only important departure from Simone's original theme is that I will implement Disqus support in the future. 
 
 David
