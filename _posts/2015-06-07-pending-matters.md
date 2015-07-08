@@ -5,7 +5,7 @@ title: The Structure of this Blog
 
 <div class="message">
   In this post I will describe principles behind this personal weblog, as well as things I plan to implement as I learn a bit more about Jekyll, and basic CSS and HTML.
-</div>: 
+</div> 
 
 * Every posts will fall within this 4 categories: **Musings**, **Glimpses**, **Curiositas**, and **Rewritings**. The first refers to notes and writings, the second is nothing but a [Commonplace book](http://www.nybooks.com/articles/archives/2000/dec/21/extraordinary-commonplaces/), the third is the log of my curiosity and is inspired by [Cosma R. Shalizi's Notebooks](http://bactra.org/notebooks/). The fourth is a little experiment of the age-old practice of copying, reformulating and plagiarizing.  
 * This blog focus entirely on content, so the design will remain barebones. I will add an Archive or a Category Index to the sidebar, basic contact information, and nothing else. 
