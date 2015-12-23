@@ -1,6 +1,6 @@
 ---
 layout: page
-title: This is What I'm Doing /Now
+title: /Now
 ---
 
 December 23, 2015.
