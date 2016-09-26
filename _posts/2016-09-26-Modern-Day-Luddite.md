@@ -3,7 +3,7 @@ layout: post
 title: Confessions of a modern-day luddite
 ---
 
-This is an idea that crept into my attention (or what was left of it) a couple of years ago, and has since become a conviction: I'm completely convinced that the Web 2.0, and particularly the social media ecology have swiftly eroded the cognitive abilities that a few thousand years of literacy and pedagogy had hardwired into the human brain.
+This is an idea that crept into my attention (or what was left of it) a couple of years ago, and has since then become a conviction: that the Web 2.0, and particularly the social media ecology, have swiftly eroded the cognitive abilities that a few thousand years of literacy and pedagogy had hardwired into the human brain.
 
 I will be adding to this post articles and videos that argue the same point. 
 
