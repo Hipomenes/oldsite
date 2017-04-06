@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Psalmodia Cristiana 
+title: Bachofen, Hercules  
 ---
 ![psalmodia](http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000047/29488_489351.jpg)
 
