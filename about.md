@@ -7,6 +7,6 @@ title: About
   "Mientras haya fulminante, fuego fuego y adelante."
 </p>
 
-These are the notes and musings of David Horacio Colmenares, graduate student at Columbia University, and currently Connecting Art Histories in the Museum Fellow in Berlin. Please contact me [here](http://academia.edu).
+This is not a blog. This is a dynamic notebook, and its entries are regularly updated. Its Matter are the Musings & Lists & Slips of **David Horacio Colmenares**, doctoral candidate in the Latin American and Iberian Cultures Department at Columbia University in the city of New York, who studies the intersections of early modern Antiquarianism and viceroyal Mexico and lives in Harlem. 
 
-David, 2015
+New York, 2017
