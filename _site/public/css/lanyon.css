@@ -40,7 +40,8 @@ body {
   overflow-x: hidden;
 }
 
-html {
+html *
+{
     font-family: 'EB Garamond', serif;
     text-rendering: optimizeLegibility;
     font-feature-settings: "kern";
@@ -56,6 +57,15 @@ html {
     hyphens: auto;
     -ms-text-size-adjust: 100%;
     -webkit-text-size-adjust: 100%;
+}
+
+a {
+    color: slategray;
+    text-decoration: none;
+    }
+
+a:hover {
+    color: red;
 }
 
 h1, h2, h3, h4, h5, h6 {
