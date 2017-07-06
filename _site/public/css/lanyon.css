@@ -40,7 +40,7 @@ body {
   overflow-x: hidden;
 }
 
-html *
+html 
 {
     font-family: 'EB Garamond', serif;
     text-rendering: optimizeLegibility;
