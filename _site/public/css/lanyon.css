@@ -59,22 +59,12 @@ html
     -webkit-text-size-adjust: 100%;
 }
 
-a {
-    color: slategray;
-    text-decoration: none;
-    }
-
-a:hover {
-    color: red;
-}
-
 h1, h2, h3, h4, h5, h6 {
   font-family: 'EB Garamond', serif;
   font-weight: 400;
   color: #313131;
   letter-spacing: -.025rem;
 }
-
 
 /*
  * Wrapper
@@ -97,7 +87,7 @@ h1, h2, h3, h4, h5, h6 {
  */
 
 .container {
-  max-width: 28rem;
+  max-width: 38rem;
 }
 @media (min-width: 38rem) {
   .container {
