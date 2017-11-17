@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+theme: "ed."
 pygments:         true
 
 # Permalinks
