@@ -1,5 +1,6 @@
 # Dependencies
 markdown:         kramdown
+theme: Handsomely-Jekyll  
 pygments:         true
 
 # Permalinks
