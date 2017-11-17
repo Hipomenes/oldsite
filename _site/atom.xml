@@ -1,206 +1,324 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
- <title>Lanyon</title>
- <link href="http://lanyon.getpoole.com/atom.xml" rel="self"/>
- <link href="http://lanyon.getpoole.com/"/>
- <updated>2015-06-08T08:31:23+02:00</updated>
- <id>http://lanyon.getpoole.com</id>
+ <title>Anagogias</title>
+ <link href="http://hipomenes.github.io/atom.xml" rel="self"/>
+ <link href="http://hipomenes.github.io/"/>
+ <updated>2017-11-17T15:06:22-08:00</updated>
+ <id>http://hipomenes.github.io</id>
  <author>
-   <name>Mark Otto</name>
+   <name>DH Colmenares</name>
    <email></email>
  </author>
 
  
  <entry>
-   <title>Introducing Lanyon</title>
-   <link href="http://lanyon.getpoole.com/2014/01/02/introducing-lanyon/"/>
-   <updated>2014-01-02T00:00:00+01:00</updated>
-   <id>http://lanyon.getpoole.com/2014/01/02/introducing-lanyon</id>
-   <content type="html">&lt;p&gt;Lanyon is an unassuming &lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; theme that places content first by tucking away navigation in a hidden drawer. It&amp;#39;s based on &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole&lt;/a&gt;, the Jekyll butler.&lt;/p&gt;
+   <title>Las tres mitades de Ino Moxo</title>
+   <link href="http://hipomenes.github.io/2017/10/07/Too/"/>
+   <updated>2017-10-07T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2017/10/07/Too</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://res.cloudinary.com/dvpnma71c/image/upload/c_scale,w_700/v1510937285/IMG_0064_bkqf1s.jpg&quot; alt=&quot;Too Much To Known&quot; /&gt;&lt;/p&gt;
 
-&lt;h3&gt;Built on Poole&lt;/h3&gt;
+&lt;p&gt;Esta es una de esas historias que solo pueden contarse así, no tanto como ocurrieron, sino como se  presentan, como se van encadenando con otras historias, saltando en el tiempo y el espacio o remitiendo unas a otras, pero siempre girando en torno a &lt;em&gt;algo&lt;/em&gt;, algo que queda por definir, y quizá no pueda definirse si no es precisamente siguiendo el curso de esa reverberación que disipa la sensación punzante de que, en efecto, hay algo enigmático ahí y que si bien no podemos nombrar, al menos podemos comenzar a reconstruir siempre que empecemos por algún sitio, da lo mismo cual, pero que en el presente caso podría ser una función comenzada con retraso a las 7:55 PM en la sala de cine más antigua de San Francisco, función única dedicada a &lt;em&gt;Icaros – La Visión&lt;/em&gt;…&lt;/p&gt;
 
-&lt;p&gt;Poole is the Jekyll Butler, serving as an upstanding and effective foundation for Jekyll themes by &lt;a href=&quot;https://twitter.com/mdo&quot;&gt;@mdo&lt;/a&gt;. Poole, and every theme built on it (like Lanyon here) includes the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Complete Jekyll setup included (layouts, config, &lt;a href=&quot;/404&quot;&gt;404&lt;/a&gt;, &lt;a href=&quot;/atom.xml&quot;&gt;RSS feed&lt;/a&gt;, posts, and &lt;a href=&quot;/about&quot;&gt;example page&lt;/a&gt;)&lt;/li&gt;
-&lt;li&gt;Mobile friendly design and development&lt;/li&gt;
-&lt;li&gt;Easily scalable text and component sizing with &lt;code&gt;rem&lt;/code&gt; units in the CSS&lt;/li&gt;
-&lt;li&gt;Support for a wide gamut of HTML elements&lt;/li&gt;
-&lt;li&gt;Related posts (time-based, because Jekyll) below each post&lt;/li&gt;
-&lt;li&gt;Syntax highlighting, courtesy Pygments (the Python-based code snippet highlighter)&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;h3&gt;Lanyon features&lt;/h3&gt;
-
-&lt;p&gt;In addition to the features of Poole, Lanyon adds the following:&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Toggleable sliding sidebar (built with only CSS) via &lt;strong&gt;☰&lt;/strong&gt; link in top corner&lt;/li&gt;
-&lt;li&gt;Sidebar includes support for textual modules and a dynamically generated navigation with active link support&lt;/li&gt;
-&lt;li&gt;Two orientations for content and sidebar, default (left sidebar) and &lt;a href=&quot;https://github.com/poole/lanyon#reverse-layout&quot;&gt;reverse&lt;/a&gt; (right sidebar), available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;li&gt;&lt;a href=&quot;https://github.com/poole/lanyon#themes&quot;&gt;Eight optional color schemes&lt;/a&gt;, available via &lt;code&gt;&amp;lt;body&amp;gt;&lt;/code&gt; classes&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;&lt;a href=&quot;https://github.com/poole/lanyon#readme&quot;&gt;Head to the readme&lt;/a&gt; to learn more.&lt;/p&gt;
-
-&lt;h3&gt;Browser support&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is by preference a forward-thinking project. In addition to the latest versions of Chrome, Safari (mobile and desktop), and Firefox, it is only compatible with Internet Explorer 9 and above.&lt;/p&gt;
-
-&lt;h3&gt;Download&lt;/h3&gt;
-
-&lt;p&gt;Lanyon is developed on and hosted with GitHub. Head to the &lt;a href=&quot;https://github.com/poole/lanyon&quot;&gt;GitHub repository&lt;/a&gt; for downloads, bug reports, and features requests.&lt;/p&gt;
-
-&lt;p&gt;Thanks!&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>Example content</title>
-   <link href="http://lanyon.getpoole.com/2014/01/01/example-content/"/>
-   <updated>2014-01-01T00:00:00+01:00</updated>
-   <id>http://lanyon.getpoole.com/2014/01/01/example-content</id>
-   <content type="html">&lt;div class=&quot;message&quot;&gt;
-  Howdy! This is an example blog post that shows several types of HTML content supported in this theme.
-&lt;/div&gt;
+   <title>Bibliógrafos y recolectores de documentos</title>
+   <link href="http://hipomenes.github.io/2017/05/13/Bibliographers/"/>
+   <updated>2017-05-13T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2017/05/13/Bibliographers</id>
+   <content type="html">&lt;p&gt;Por razones que valdría la pena explorar, en México han escollado como en pocos sitios los bibliofilos y bibliógrafos. “Algunos de estos maniacos—escribía Luis González y González—han llegado a ser glorias nacionales, epónimos de avenidas como don Francisco del Paso y Troncoso.” En esta entrada, me propongo recopilar las principales colecciones documentales publicadas de documentos relativos a la Nueva España. Empiezo con los repertorios publicados por la española Academia de la Historia a mediados del siglo XIX.&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis &lt;a href=&quot;#&quot;&gt;dis parturient montes&lt;/a&gt;, nascetur ridiculus mus. &lt;em&gt;Aenean eu leo quam.&lt;/em&gt; Pellentesque ornare sem lacinia quam venenatis vestibulum. Sed posuere consectetur est at lobortis. Cras mattis consectetur purus sit amet fermentum.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://catalog.hathitrust.org/Record/009647708&quot;&gt;&lt;em&gt;Colección de documentos inéditos relativos al descubrimiento, conquista y organización de las posesiones españolas de América y Oceanía&lt;/em&gt;&lt;/a&gt;, Madrid, 1864-1888, 42 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;&lt;a href=&quot;https://catalog.hathitrust.org/Record/006128301&quot;&gt;&lt;em&gt;Colección de documentos ineditos relativos al descubrimiento, conquista y organización de las antiguas posesiones españolas de Ultramar (Segunda serie)&lt;/em&gt;&lt;/a&gt;, Madrid, 1885-1932, 25 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Francisco del Paso y Troncoso, &lt;a href=&quot;https://catalog.hathitrust.org/Record/000502833&quot;&gt;&lt;em&gt;Papeles de la Nueva España&lt;/em&gt;&lt;/a&gt;, Madrid, 1905-1906, 7 vols. &lt;a href=&quot;https://catalog.hathitrust.org/Record/000502833&quot;&gt;Suplementos&lt;/a&gt;, 1945-1948, 3 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Francisco del Paso y Troncoso, &lt;a href=&quot;https://catalog.hathitrust.org/Record/010520238&quot;&gt;&lt;em&gt;Epistolario de la Nueva España, 1505-1818&lt;/em&gt;&lt;/a&gt;, México, 1939-1942, 16 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://catalog.hathitrust.org/Record/001445216&quot;&gt;&lt;em&gt;Colección de documentos para la historia de México&lt;/em&gt;&lt;/a&gt;, México 1858, 1866, 2 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://babel.hathitrust.org/cgi/ls?field1=ocr;q1=Nueva%20colección%20de%20documentos%20para%20la%20historia%20de%20Mexico;a=srchls;lmt=ft&quot;&gt;&lt;em&gt;Nueva colección de documentos para la historia de México&lt;/em&gt;&lt;/a&gt;, México, 1886-1892, 5 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Joaquín García Icazbalceta, &lt;a href=&quot;https://catalog.hathitrust.org/Record/000699116&quot;&gt;&lt;em&gt;Códice Mendieta: documentos franciscanos, siglos XVI y XVII&lt;/em&gt;&lt;/a&gt;, México, 1982, 2 vols.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;Manuel Orozco y Berra, &lt;em&gt;Documentos para la historia de México&lt;/em&gt;, México, 1853-1857, 4 series, 15 vols.&lt;/p&gt;
+  &lt;/li&gt;
+&lt;/ul&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Bachofen, Hercules</title>
+   <link href="http://hipomenes.github.io/2017/03/06/Hercules_Bachofen/"/>
+   <updated>2017-03-06T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2017/03/06/Hercules_Bachofen</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000047/29488_489351.jpg&quot; alt=&quot;psalmodia&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;En una pasaje lacónico del Mutterrecht, Bachofen afirma que la transgresión de Prometeo fue naturalizada solo “trece generaciones más tarde” por Hércules. Es obvio que Bachofen se basa en uno de los trabajos menos comentados del héroe—la liberación de Prometeo, usualmente leída como mero preámbulo al episodio de las Hespérides—pero no deja de sorprender que Bachofen conciba la carrera de Hércules como una continuación de la pugna entre Prometeo y su hermano Epimeteo. A Hércules, el vencedor de monstruos, le corresponde, sin saberlo, naturalizar el “ethos prometeico” más allá de todo reparo de los olímpicos. De ahí que a menudo se le atribuya la invención de las artes, notablemente la escritura y la astronomía, artes que permiten a los hombres acceder a las formas futuras y remediar así la incuria de Epimeteo, ese titán que vive absorto en la inmanencia. La celebridad de Hércules supondría así, siguiendo a Bachofen, el definitivo olvido de Epimeteo, que ya en el tardío Hesiodo se ha convertido en el tonto por antonomasia. Desde entonces, la inmanencia que regía el orden matriarcal es sacrificada en los altares del Telos, que rige el orden del patriarcado: el paso del reino de la material al reino de la forma. Para entonces, la physis primigenia sólo puede ya ser pensada como lo monstruoso, lo que el héroe, ufano en su phronesis y primera víctima de la razón instrumental, debe destruir. De esto y otros temas me gusta imaginar que discutieron Ivan Illich y Erich Fromm una tarde de 1970 en Cuernavaca.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Psalmodia Cristiana</title>
+   <link href="http://hipomenes.github.io/2016/12/28/Bricolage/"/>
+   <updated>2016-12-28T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2016/12/28/Bricolage</id>
+   <content type="html">&lt;p&gt;Feliz navidad.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/psalmodia.jpg&quot; alt=&quot;psalmodia&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Higher Justice</title>
+   <link href="http://hipomenes.github.io/2016/11/07/Conrad/"/>
+   <updated>2016-11-07T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2016/11/07/Conrad</id>
+   <content type="html">&lt;p&gt;I learned about Joseph Conrad’s “Preface” to the &lt;em&gt;Nigger of the Narcissus&lt;/em&gt; thanks to a passage mentioned in &lt;a href=&quot;https://www.youtube.com/watch?v=9GubdYZPYPg&quot;&gt;this conversation&lt;/a&gt; between Ian McEwan and Steven Pinker. I went on to read it, and found it utterly enlightening. Here’s the opening first paragraph, that I wish I could read every morning.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/Narcissus_Preface.jpg&quot; alt=&quot;Preface&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;The Preface can be &lt;a href=&quot;https://archive.org/details/niggernarcissus00conrgoog&quot;&gt;read here&lt;/a&gt;.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Didascalia from the Didascalicon</title>
+   <link href="http://hipomenes.github.io/2016/10/25/A-didascalia-from-the-Didascalicon/"/>
+   <updated>2016-10-25T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2016/10/25/A-didascalia-from-the-Didascalicon</id>
+   <content type="html">&lt;p&gt;I’ve &lt;a href=&quot;http://hipomenes.github.io/2015/11/24/motto/&quot;&gt;written before&lt;/a&gt; about the pleasures of knowledge according to a Roman academy and Kircher’s adoption of a Platonic motto on the beauty of knowing everything. Last night, a little before falling asleep, I stumbled upon Hugh of Saint Victor’s praise of &lt;em&gt;meditatio&lt;/em&gt;, a practice closely related to the &lt;em&gt;lectio divina&lt;/em&gt;. It is, without doubt, the most beautiful praise of intellectual work I’ve read, an activity that according to Hugh gives us, in Jerome Taylor’s elegant translation, a “foretaste of the sweetness of eternal quiet”. In &lt;em&gt;meditatio&lt;/em&gt;, the rumination characteristic of the &lt;em&gt;lectio divina&lt;/em&gt; is carried forth beyond the confines of the book and into the world.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/Screen%20Shot%202016-10-25%20at%208.32.12%20AM.png&quot; alt=&quot;On Meditation1&quot; /&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/Screen%20Shot%202016-10-25%20at%208.32.29%20AM.png&quot; alt=&quot;On Meditation2&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;(&lt;em&gt;nb&lt;/em&gt;: I’m curious to see what Ivan Illich has to say about this passage.)&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Confessions of a modern-day luddite</title>
+   <link href="http://hipomenes.github.io/2016/09/26/Modern-Day-Luddite/"/>
+   <updated>2016-09-26T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2016/09/26/Modern-Day-Luddite</id>
+   <content type="html">&lt;p&gt;This is an idea that crept into my attention (or what was left of it) a couple of years ago, and has since then become a conviction: that the Web 2.0, and particularly the social media ecology, have swiftly eroded the cognitive abilities that a few thousand years of literacy and pedagogy had hardwired into the human brain.&lt;/p&gt;
+
+&lt;p&gt;I will be adding to this post articles and videos that argue the same point.&lt;/p&gt;
+
+&lt;p&gt;The most recent, is &lt;a href=&quot;http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html&quot;&gt;Andrew Sullivan’s&lt;/a&gt; passionate piece in the NYT’s Magazine. And then a now classic video by &lt;a href=&quot;https://www.youtube.com/watch?v=3E7hkPZ-HTk&quot;&gt;Cal Newport&lt;/a&gt;, who’s been arguing for some years for that mid-century utopia that was the 9 to 5 schedule and the focused life.&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Buddhaghoṣa</title>
+   <link href="http://hipomenes.github.io/2016/08/20/Buddhaghosa/"/>
+   <updated>2016-08-20T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2016/08/20/Buddhaghosa</id>
+   <content type="html">&lt;p&gt;Abundan las historias sobre el origen divino o sobrenatural de un texto sagrado, pero mucho más raro es encontrar una historia que mitifique la autenticidad y validez incuestionable de un comentario. La que aquí transcribo, se encuentra en la segunda parte de un largo poema en la «lengua de Maghada», considerado una de las pocas fuentes indirectas sobre el más importante comentarista del budismo temprano, Buddhaghoṣa (siglo V). El relato es el de un adepto de las doctrinas filosóficas, con una memoria a prueba de errores, que tras su llegada a un monasterio Theravada se topa con un sistema portentoso que desconoce: el Abhidhamma. Entendemos que no sólo es la doctrina, lo que lo desafía, sino sobre todo un método y un estilo. Fascinando con el despliegue argumentativo del viejo monje que lo recibe en el monasterio, decide establecerse ahí para aprender más al respecto, aún si la condición para esto es “abandonar el hogar”, es decir, ordenarse como un bikkhu de la orden. Lo que sigue es una narración sobre las pruebas que debe sobrellevar para escribir un gran comentario sobre la totalidad del sistema, así como una justificación de su autoridad incuestionable: en una asamblea, las tres versiones escritas y sustraídas por los devas son cotejadas y muestran ser idénticas.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/gd1.jpg&quot; alt=&quot;Visuddhimagga&quot; /&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/gd2.jpg&quot; alt=&quot;Visuddhimagga&quot; /&gt;&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Mediterranean</title>
+   <link href="http://hipomenes.github.io/2016/05/30/Mediterraneo/"/>
+   <updated>2016-05-30T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2016/05/30/Mediterraneo</id>
+   <content type="html">&lt;p&gt;Judíos, musulmanes, cristianos en el (nuevo) Mediterráneo. Un crash-course con énfasis en Al Andalus:&lt;/p&gt;
+
+&lt;ul&gt;
+  &lt;li&gt;David Abulafia, &lt;a href=&quot;https://www.amazon.com/Great-Sea-Human-History-Mediterranean/dp/019931599X?ie=UTF8&amp;amp;*Version*=1&amp;amp;*entries*=0&quot;&gt;&lt;em&gt;The Great Sea: A Human History of the Mediterranean&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Peter N. Miller, &lt;a href=&quot;https://www.amazon.com/Peirescs-Mediterranean-World-Peter-Miller-ebook/dp/B00W98ZUNS/ref=sr_1_1?s=books&amp;amp;ie=UTF8&amp;amp;qid=1464764319&amp;amp;sr=1-1&amp;amp;keywords=miller+peiresc&quot;&gt;&lt;em&gt;Peiresc’s Mediterranean&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Emilio González Ferrín, &lt;a href=&quot;http://www.casadellibro.com/libro-historia-general-de-al-andalus/9788488586810/1101167&quot;&gt;&lt;em&gt;Historia general de Al Andalús&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;David Niremberg, &lt;a href=&quot;http://www.press.uchicago.edu/ucp/books/book/chicago/N/bo18602093.html&quot;&gt;&lt;em&gt;Neighboring Faiths, Christianity, Islam and Judaism in the Middle Ages and Today&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;Steven M. Wasserstrom, &lt;a href=&quot;http://press.princeton.edu/titles/5729.html&quot;&gt;&lt;em&gt;Between Muslim and Jew: The Problem of Symbiosis under Early Islam&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
+  &lt;li&gt;&lt;em&gt;Al-Andalus: paradigma y continuidad&lt;/em&gt;, ed. por González Ferrín&lt;/li&gt;
+  &lt;li&gt;Simon R. Doubleday, &lt;a href=&quot;http://simondoubleday.com/writings/wise-king-christian-prince-muslim-spain-birth-renaissance&quot;&gt;The Wise King: A Christian Prince, Muslim Spain, and the Birth of the Renaissance&lt;/a&gt;&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;Ver también la nota &lt;a href=&quot;http://bactra.org/notebooks/world-history.html&quot;&gt;World History, Macrohistory&lt;/a&gt; de C. Bactra. Y, por qué no, la serie &lt;a href=&quot;http://www.bbc.co.uk/programmes/b06rwgdf&quot;&gt;Blood and Gold&lt;/a&gt; de la BBC.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Vislumbres de Bachofen</title>
+   <link href="http://hipomenes.github.io/2016/02/01/Bachofen/"/>
+   <updated>2016-02-01T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2016/02/01/Bachofen</id>
+   <content type="html">&lt;p&gt;En ocasiones, el porvenir de la ciencia y, con ello, del mundo, se juega en el abismo que separa dos temperamentos. En este caso, el frío racionalismo de Mommsen, encumbrado en Berlin y la Academia Prusiana de las Ciencias, saldría airoso. Pero en la vida de las ideas, las genealogías truncas no equivalen a la muerte: la progenie electiva de Bachofen aún recorre Europa.&lt;/p&gt;
+
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/bachofen-mommsen.png&quot; alt=&quot;Gossman, &amp;quot;Orpheus Philologus&amp;quot;, p. 21&quot; /&gt;&lt;/p&gt;
+
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Escritorio oaxaqueño</title>
+   <link href="http://hipomenes.github.io/2015/12/15/oaxaca/"/>
+   <updated>2015-12-15T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2015/12/15/oaxaca</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/P1130586.jpg&quot; alt=&quot;Escritorio&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Tras un periplo de un año, al fin he regresado a mi escritorio oaxaqueño. En él han desembarcado algunos de los amigos que me han acompañado en la maleta desde New Haven y San Francisco, Benín y Yucatán, Berlín y Lisboa… Para los anticuarios, un escritorio atiborrado de “piccola antichità” era el estimulante de la imaginación evidenciaria. Para mí, este diciembre, el escritorio atiborrado es un paisaje a escala y un resumen del año vivido. Estos mis amigos presidirán ahora la &lt;a href=&quot;https://dl.dropboxusercontent.com/u/15184083/PAGES/heidegger_fiesta.html&quot;&gt;demorada fiesta del pensar&lt;/a&gt; que me aguarda estas próximas semanas. Espero adivinar, al romper el día, el murmullo de sus conversaciones nocturnas.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Reclaiming the good life from the Segundos Pisos</title>
+   <link href="http://hipomenes.github.io/2015/12/12/vernacular/"/>
+   <updated>2015-12-12T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2015/12/12/vernacular</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://robbbeck.files.wordpress.com/2011/05/illich.jpg&quot; alt=&quot;Ivan Illich&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;While this winter break has been packed with activities, and a dissertation chapter is due in January, these following weeks I plan to spend as much as possible re-reading one of the intellectual (dare I say: spiritual) heroes of my youth: Ivan Illich. In the past year, I encountered Illich once again while reading about the Medieval encyclopedic tradition and Hugh of Saint Victor’s &lt;em&gt;Didascalicon&lt;/em&gt;, the 12th-century treatise on reading to which Illich dedicated a detailed commentary. A few months ago I read the engaging &lt;em&gt;Rivers North of the Future&lt;/em&gt;, a series of interviews in which Illich spelled out the theological underpinnings of his criticism of modern society.  I also came across a little book, &lt;em&gt;The Prophet from Cuernavaca&lt;/em&gt;, the first reconstruction of Illich’s activities at the CIDOC. However, it’s been my recent experiences in Mexico City that have sparked my interest in Illich’s thought once again. Mexico City in many ways stands as an example of the utter failure of the political intervention that Illich thought was still feasible in the 1970s, and through which the “Developing” world could have been spared from the ills of Capitalist modernization. While his reading of the situation, I believe, was correct, he failed to identify or address the possible agents of such an intervenetion, and he squandered his energies chastizising and re-educating American missionaries while entirely neglecting local policy-makers or institutions such as the CEPAL. At any rate, Mexico City and its sprawling net of  &lt;em&gt;segundos pisos&lt;/em&gt; feels precisely as the kind urban distopia that Illich sought to prevent.&lt;/p&gt;
+
+&lt;p&gt;A growing number of recent publications have set out to reassess Illich’s legacy, but my aim is to dive directly into his ouevre through the wonderful FCE’s &lt;em&gt;Obras Completas&lt;/em&gt;, edited by Javier Sicilia.  I plan to re-read works that had a lasting impact in my coming of age, such as &lt;em&gt;Tools for Conviventiality&lt;/em&gt;, but also books I didn’t read back then and that now seem all the more urgent: &lt;em&gt;The Right to Useful Unemployment&lt;/em&gt;, &lt;em&gt;Disabling Professions&lt;/em&gt; and &lt;em&gt;Energy and Equity&lt;/em&gt;.  Finally, I will try to breath new life into these books by reading them side by side to Christopher Alexander’s &lt;em&gt;The Nature of Order&lt;/em&gt;, a work that I’ve been meaning to read for a while after spending several months musing over his beautiful &lt;em&gt;Pattern language&lt;/em&gt;.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>El saber y el goce</title>
+   <link href="http://hipomenes.github.io/2015/11/24/motto/"/>
+   <updated>2015-11-24T00:00:00-08:00</updated>
+   <id>http://hipomenes.github.io/2015/11/24/motto</id>
+   <content type="html">&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/mondo.png&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;/p&gt;
+
+&lt;p&gt;Todo proyecto intelectual que se precie debe colocarse bajo la advocación de un mote o empresa. Uno de los primeros eventos organizados tras la fundación de la &lt;em&gt;Accademia degli Umoristi&lt;/em&gt;, en Roma, fue la serie de conferencias dictadas por el erudito friulano Girolamo Aleandro sobre el mote lucreciano de la Accademia: REDDIT AGMINE DULCI (“todo lo vuelve dulce”). A lo largo de tres jornadas, Aleandro fue desmadejando el sentido y las implicaciones del mote, cuya &lt;em&gt;pictura&lt;/em&gt; consistía en una nube, que&lt;/p&gt;
 
 &lt;blockquote&gt;
-&lt;p&gt;Curabitur blandit tempus porttitor. Nullam quis risus eget urna mollis ornare vel eu leo. Nullam id dolor id nibh ultricies vehicula ut id elit.&lt;/p&gt;
+  &lt;p&gt;che formata dalle amare essalationi del mare, e sollevata in alto per virtù de raggi del Sole, si vede poco dopo in minuta, e spessa, ma gratiosa pioggia, risolta, all’in giù stillare, co ‘l motto, tolto da Lucretio nel Lib. 6: REDDIT AGMINE DULCI.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;Etiam porta &lt;strong&gt;sem malesuada magna&lt;/strong&gt; mollis euismod. Cras mattis consectetur purus sit amet fermentum. Aenean lacinia bibendum nulla sed consectetur.&lt;/p&gt;
+&lt;p&gt;La frase proviene del VI libro de &lt;em&gt;De Rerum Natura&lt;/em&gt; (631):&lt;/p&gt;
 
-&lt;h2&gt;Inline HTML elements&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Postremo quoniam raro cum corpore tellus&lt;br /&gt;
+est et coniunctast oras maris undique cingens,&lt;br /&gt;
+debet, ut in mare de terris venit umor aquai,&lt;br /&gt;
+in terras itidem manare ex aequore salso;&lt;br /&gt;
+percolatur enim virus retroque remanat&lt;br /&gt;
+materies umoris et ad caput amnibus omnis&lt;br /&gt;
+confluit, inde super terras redit agmine dulci&lt;br /&gt;
+qua via secta semel liquido pede detulit undas.&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;HTML defines a long list of available inline tags, a complete list of which can be found on the &lt;a href=&quot;https://developer.mozilla.org/en-US/docs/Web/HTML/Element&quot;&gt;Mozilla Developer Network&lt;/a&gt;.&lt;/p&gt;
+&lt;p&gt;O en la versión de Francisco Socas:&lt;/p&gt;
 
-&lt;ul&gt;
-&lt;li&gt;&lt;strong&gt;To bold text&lt;/strong&gt;, use &lt;code&gt;&amp;lt;strong&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;em&gt;To italicize text&lt;/em&gt;, use &lt;code&gt;&amp;lt;em&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Abbreviations, like &lt;abbr title=&quot;HyperText Markup Langage&quot;&gt;HTML&lt;/abbr&gt; should use &lt;code&gt;&amp;lt;abbr&amp;gt;&lt;/code&gt;, with an optional &lt;code&gt;title&lt;/code&gt; attribute for the full phrase.&lt;/li&gt;
-&lt;li&gt;Citations, like &lt;cite&gt;&amp;mdash; Mark otto&lt;/cite&gt;, should use &lt;code&gt;&amp;lt;cite&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;&lt;del&gt;Deleted&lt;/del&gt; text should use &lt;code&gt;&amp;lt;del&amp;gt;&lt;/code&gt; and &lt;ins&gt;inserted&lt;/ins&gt; text should use &lt;code&gt;&amp;lt;ins&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;li&gt;Superscript &lt;sup&gt;text&lt;/sup&gt; uses &lt;code&gt;&amp;lt;sup&amp;gt;&lt;/code&gt; and subscript &lt;sub&gt;text&lt;/sub&gt; uses &lt;code&gt;&amp;lt;sub&amp;gt;&lt;/code&gt;.&lt;/li&gt;
-&lt;/ul&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que **en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.&lt;sup id=&quot;fnref:fn-rerum&quot;&gt;&lt;a href=&quot;#fn:fn-rerum&quot; class=&quot;footnote&quot;&gt;1&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Most of these elements are styled by browsers with few modifications on our part.&lt;/p&gt;
+&lt;p&gt;En su &lt;em&gt;Mundus Symbolicus&lt;/em&gt;, compendio enciclopédico de empresas, el teórico milanés Filippo Picinelli, abrevando sin duda en el tratado manuscrito que el propio Aleandro preparó tras su conferencia, describe así el mote:&lt;/p&gt;
 
-&lt;h2&gt;Heading&lt;/h2&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;HACER BIEN A LOS ENEMIGOS. 
+El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice “Es propio de los cristianos hacer el bien y soportar los males”. Y Hugo Cardenal: “Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.&lt;sup id=&quot;fnref:fn-1&quot;&gt;&lt;a href=&quot;#fn:fn-1&quot; class=&quot;footnote&quot;&gt;2&lt;/a&gt;&lt;/sup&gt;&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;p&gt;Vivamus sagittis lacus vel augue rutrum faucibus dolor auctor. Duis mollis, est non commodo luctus, nisi erat porttitor ligula, eget lacinia odio sem nec elit. Morbi leo risus, porta ac consectetur ac, vestibulum at eros.&lt;/p&gt;
+&lt;p&gt;Fiel a su raíz carnavalesca—la Accademia surgió de un grupo de “belli humori” congregados para organizar las festividades del casamiento de Paolo Mancini—la Accademia se presenta como el espacio de la transmutación de los humores; espacio en que los sinsabores y desavenencias mundanas pueden volverse dulces por virtud del ejercicio de la erudición y la curiosidad.&lt;/p&gt;
 
-&lt;h3&gt;Code&lt;/h3&gt;
+&lt;p&gt;No lejos de este espíritu, Athanasius Kircher colocó su propio proyecto intelectual bajo la advocación de un mote en el que el goce sosegado de la erudición da paso a una resolución rayana en la &lt;em&gt;hybris&lt;/em&gt;.&lt;/p&gt;
 
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis &lt;code&gt;code element&lt;/code&gt; montes, nascetur ridiculus mus.&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/ars.png&quot; alt=&quot;Frontispicio del *Ars Magna Sciendis, Sive Combinatoria*&quot; /&gt;&lt;/p&gt;
 
-&lt;div class=&quot;highlight&quot;&gt;&lt;pre&gt;&lt;code class=&quot;language-js&quot; data-lang=&quot;js&quot;&gt;&lt;span class=&quot;c1&quot;&gt;// Example can be run directly in your JavaScript console&lt;/span&gt;
+&lt;p&gt;En el frontispicio de su propia “Gran Arte”, que buscaba rivalizar con la de Llull, Kircher introdujo un mote griego tomado del &lt;em&gt;Cratilo&lt;/em&gt;, platónico:&lt;/p&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Create a function that takes two arguments and returns the sum of those arguments&lt;/span&gt;
-&lt;span class=&quot;kd&quot;&gt;var&lt;/span&gt; &lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt; &lt;span class=&quot;o&quot;&gt;=&lt;/span&gt; &lt;span class=&quot;k&quot;&gt;new&lt;/span&gt; &lt;span class=&quot;nb&quot;&gt;Function&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s2&quot;&gt;&amp;quot;a&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;s2&quot;&gt;&amp;quot;return a + b&amp;quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
+&lt;blockquote&gt;
+  &lt;p&gt;&lt;em&gt;Medèn kàllion è pànta eidènai&lt;/em&gt; (“No hay nada más hermoso que el conocimiento de todas las cosas.”)&lt;/p&gt;
+&lt;/blockquote&gt;
 
-&lt;span class=&quot;c1&quot;&gt;// Call the function&lt;/span&gt;
-&lt;span class=&quot;nx&quot;&gt;adder&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;mi&quot;&gt;2&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;,&lt;/span&gt; &lt;span class=&quot;mi&quot;&gt;6&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;);&lt;/span&gt;
-&lt;span class=&quot;c1&quot;&gt;// &amp;gt; 8&lt;/span&gt;&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;
+&lt;div class=&quot;footnotes&quot;&gt;
+  &lt;ol&gt;
+    &lt;li id=&quot;fn:fn-rerum&quot;&gt;
+      &lt;p&gt;&lt;em&gt;De la naturaleza de las cosas&lt;/em&gt;, Ed. y trad. de Francisco Socas, Gredos 2003, p. 421. &lt;a href=&quot;#fnref:fn-rerum&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+    &lt;li id=&quot;fn:fn-1&quot;&gt;
+      &lt;p&gt;&lt;em&gt;El mundo simbólico&lt;/em&gt;, Ed. y trad. del Colegio de Michoacán, p. 121-2. &lt;a href=&quot;#fnref:fn-1&quot; class=&quot;reversefootnote&quot;&gt;&amp;#8617;&lt;/a&gt;&lt;/p&gt;
+    &lt;/li&gt;
+  &lt;/ol&gt;
+&lt;/div&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Note-taking Theory</title>
+   <link href="http://hipomenes.github.io/curiositas/2015/07/11/index-cards/"/>
+   <updated>2015-07-11T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/curiositas/2015/07/11/index-cards</id>
+   <content type="html">&lt;p&gt;For the past few years, I’ve dedicated a shameful amount of time to read and think about note-taking and research and information organization. And while I’ve developed a pretty satisfying system for the former, using an across-the-board color code, the latter still puzzles me. I’ve certainly enjoyed books such as Ann Blair’s &lt;em&gt;Too Much to Know&lt;/em&gt; and was dazzled by Patricia Falguières analysis of the Renaissance &lt;em&gt;Wunderkammern&lt;/em&gt; as an instance of the Aristotelian topical tradition (a theme I really want to pursue when Life &amp;amp; Work permits), but for the most part my reading has been oriented by the pragmatic need to fine-tune the archival system I’ve been building throughout my graduate studies. Now, as I prepare my dissertation, the system will be put to a test.&lt;/p&gt;
 
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa.&lt;/p&gt;
-
-&lt;h3&gt;Lists&lt;/h3&gt;
-
-&lt;p&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. Aenean lacinia bibendum nulla sed consectetur. Etiam porta sem malesuada magna mollis euismod. Fusce dapibus, tellus ac cursus commodo, tortor mauris condimentum nibh, ut fermentum massa justo sit amet risus.&lt;/p&gt;
-
-&lt;ul&gt;
-&lt;li&gt;Praesent commodo cursus magna, vel scelerisque nisl consectetur et.&lt;/li&gt;
-&lt;li&gt;Donec id elit non mi porta gravida at eget metus.&lt;/li&gt;
-&lt;li&gt;Nulla vitae elit libero, a pharetra augue.&lt;/li&gt;
-&lt;/ul&gt;
-
-&lt;p&gt;Donec ullamcorper nulla non metus auctor fringilla. Nulla vitae elit libero, a pharetra augue.&lt;/p&gt;
+&lt;p&gt;Most of what I’ve learned has come from the occasional scholar who has been generous enough to describe his or her digital workflow, but also from the swarms of productivity bloggers and GDT-mongers, and more recently from professional digital humanities promoters. In this post, I thought of putting together a list of articles and posts that I’ve found more enlightening. They’re in no particular order, other than the order in which they come to mind.&lt;/p&gt;
 
 &lt;ol&gt;
-&lt;li&gt;Vestibulum id ligula porta felis euismod semper.&lt;/li&gt;
-&lt;li&gt;Cum sociis natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus.&lt;/li&gt;
-&lt;li&gt;Maecenas sed diam eget risus varius blandit sit amet non magna.&lt;/li&gt;
+  &lt;li&gt;
+    &lt;p&gt;“Some Idiosyncratic Reflections on Note-Taking in General and ConnectedText in Particular”, by &lt;a href=&quot;http://www.connectedtext.com/manfred.php&quot;&gt;Manfred Kuehn&lt;/a&gt;. This is the latest piece I’ve read, and is by far the most thoughtful. While Kuehn’s essay was supposed to be about ConnectedText, an interesting early piece of software made redundant by newer solutions, his piece is a wonderful reflection on the use of archival systems as “thinking-machines”. His discussion of Niklas Luhman’s “Zettelkasten” is truly engaging, and far superior to those spawned by recent Luhman revivalists out there.&lt;/p&gt;
+  &lt;/li&gt;
+  &lt;li&gt;&lt;/li&gt;
 &lt;/ol&gt;
 
-&lt;p&gt;Cras mattis consectetur purus sit amet fermentum. Sed posuere consectetur est at lobortis.&lt;/p&gt;
-
-&lt;dl&gt;
-  &lt;dt&gt;HyperText Markup Language (HTML)&lt;/dt&gt;
-  &lt;dd&gt;The language used to describe and define the content of a Web page&lt;/dd&gt;
-
-  &lt;dt&gt;Cascading Style Sheets (CSS)&lt;/dt&gt;
-  &lt;dd&gt;Used to describe the appearance of Web content&lt;/dd&gt;
-
-  &lt;dt&gt;JavaScript (JS)&lt;/dt&gt;
-  &lt;dd&gt;The programming language used to build advanced Web sites and applications&lt;/dd&gt;
-&lt;/dl&gt;
-
-&lt;p&gt;Integer posuere erat a ante venenatis dapibus posuere velit aliquet. Morbi leo risus, porta ac consectetur ac, vestibulum at eros. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;h3&gt;Tables&lt;/h3&gt;
-
-&lt;p&gt;Aenean lacinia bibendum nulla sed consectetur. Lorem ipsum dolor sit amet, consectetur adipiscing elit.&lt;/p&gt;
-
-&lt;table&gt;
-  &lt;thead&gt;
-    &lt;tr&gt;
-      &lt;th&gt;Name&lt;/th&gt;
-      &lt;th&gt;Upvotes&lt;/th&gt;
-      &lt;th&gt;Downvotes&lt;/th&gt;
-    &lt;/tr&gt;
-  &lt;/thead&gt;
-  &lt;tfoot&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Totals&lt;/td&gt;
-      &lt;td&gt;21&lt;/td&gt;
-      &lt;td&gt;23&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tfoot&gt;
-  &lt;tbody&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Alice&lt;/td&gt;
-      &lt;td&gt;10&lt;/td&gt;
-      &lt;td&gt;11&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Bob&lt;/td&gt;
-      &lt;td&gt;4&lt;/td&gt;
-      &lt;td&gt;3&lt;/td&gt;
-    &lt;/tr&gt;
-    &lt;tr&gt;
-      &lt;td&gt;Charlie&lt;/td&gt;
-      &lt;td&gt;7&lt;/td&gt;
-      &lt;td&gt;9&lt;/td&gt;
-    &lt;/tr&gt;
-  &lt;/tbody&gt;
-&lt;/table&gt;
-
-&lt;p&gt;Nullam id dolor id nibh ultricies vehicula ut id elit. Sed posuere consectetur est at lobortis. Nullam quis risus eget urna mollis ornare vel eu leo.&lt;/p&gt;
-
-&lt;hr&gt;
-
-&lt;p&gt;Want to see something else added? &lt;a href=&quot;https://github.com/poole/poole/issues/new&quot;&gt;Open an issue.&lt;/a&gt;&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
-   <title>What's Jekyll?</title>
-   <link href="http://lanyon.getpoole.com/2013/12/31/whats-jekyll/"/>
-   <updated>2013-12-31T00:00:00+01:00</updated>
-   <id>http://lanyon.getpoole.com/2013/12/31/whats-jekyll</id>
-   <content type="html">&lt;p&gt;&lt;a href=&quot;http://jekyllrb.com&quot;&gt;Jekyll&lt;/a&gt; is a static site generator, an open-source tool for creating simple yet powerful websites of all shapes and sizes. From &lt;a href=&quot;https://github.com/mojombo/jekyll/blob/master/README.markdown&quot;&gt;the project&amp;#39;s readme&lt;/a&gt;:&lt;/p&gt;
+   <title>Index Cards</title>
+   <link href="http://hipomenes.github.io/curiositas/2015/07/10/note-taking-copy/"/>
+   <updated>2015-07-10T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/curiositas/2015/07/10/note-taking copy</id>
+   <content type="html">&lt;p&gt;Una breve compilación de hitos en la historia de la acumulación de cajas de tarjetas, extraído en lo fundamental del gran ensayo de Peter Grapp.&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>The Structure of this Blog</title>
+   <link href="http://hipomenes.github.io/2015/07/08/structure-blog/"/>
+   <updated>2015-07-08T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2015/07/08/structure-blog</id>
+   <content type="html">&lt;div class=&quot;message&quot;&gt;
+  In this post I will describe the principles behind this personal weblog, as well as things I plan to implement as I learn a bit more about Jekyll, and some basic CSS and HTML.
+&lt;/div&gt;
 
-&lt;blockquote&gt;
-&lt;p&gt;Jekyll is a simple, blog aware, static site generator. It takes a template directory [...] and spits out a complete, static website suitable for serving with Apache or your favorite web server. This is also the engine behind GitHub Pages, which you can use to host your project’s page or blog right here from GitHub.&lt;/p&gt;
+&lt;ul&gt;
+  &lt;li&gt;Every posts will fall within this 4 categories: &lt;strong&gt;Musings&lt;/strong&gt;, &lt;strong&gt;Glimpses&lt;/strong&gt;, &lt;strong&gt;Curiositas&lt;/strong&gt;, and &lt;strong&gt;Rewritings&lt;/strong&gt;. The first refers to notes and actual pieces. The second is nothing but a &lt;a href=&quot;http://hipomenes.github.io/2015/07/01/commonplace/&quot;&gt;Commonplace book&lt;/a&gt;. The third is the log of my curiosity and is inspired by &lt;a href=&quot;http://bactra.org/notebooks/&quot;&gt;Cosma R. Shalizi’s Notebooks&lt;/a&gt;. The fourth is a little experiment in the age-old practice of copying, reformulating and plagiarizing.&lt;/li&gt;
+  &lt;li&gt;This blog focuses entirely on content, so the design will remain barebones. I will add an Archive or a Category Index to the sidebar, basic contact information, and nothing else.&lt;/li&gt;
+  &lt;li&gt;While Anagogias 1.0 is gone for good, I still fully endorse Andrew Simone’s &lt;a href=&quot;https://github.com/asimone/justenoughismore&quot;&gt;“Just Enough is More”&lt;/a&gt; aesthetics and rationale. So I won’t implement tags, tag-clouds, calendars, and will stick to &lt;a href=&quot;http://getpoole.com&quot;&gt;Poole/Lanyon’s&lt;/a&gt; “Related Post” function. When I learn how to do it, I will make sure that the Home page shows only the most recent post.&lt;/li&gt;
+  &lt;li&gt;The only important departure from Simone’s original theme is that I will implement Disqus support in the future.&lt;/li&gt;
+&lt;/ul&gt;
+
+&lt;p&gt;David&lt;/p&gt;
+</content>
+ </entry>
+ 
+ <entry>
+   <title>Extraordinary Commonplaces, Robert Darnton</title>
+   <link href="http://hipomenes.github.io/2015/07/01/commonplace/"/>
+   <updated>2015-07-01T00:00:00-07:00</updated>
+   <id>http://hipomenes.github.io/2015/07/01/commonplace</id>
+   <content type="html">&lt;blockquote&gt;
+  &lt;p&gt;Time was when readers kept commonplace books. Whenever they came across a pithy passage, they copied it into a notebook under an appropriate heading, adding observations made in the course of daily life. Erasmus instructed them how to do it; and if they did not have access to his popular De Copia, they consulted printed models or the local schoolmaster. The practice spread everywhere in early modern England, among ordinary readers as well as famous writers like Francis Bacon, Ben Jonson, John Milton, and John Locke. It involved a special way of taking in the printed word. Unlike modern readers, who follow the flow of a narrative from beginning to end, early modern Englishmen read in fits and starts and jumped from book to book. They broke texts into fragments and assembled them into new patterns by transcribing them in different sections of their notebooks. Then they reread the copies and rearranged the patterns while adding more excerpts. Reading and writing were therefore inseparable activities. They belonged to a continuous effort to make sense of things, for the world was full of signs: you could read your way through it; and by keeping an account of your readings, you made a book of your own, one stamped with your personality.&lt;/p&gt;
 &lt;/blockquote&gt;
 
-&lt;p&gt;It&amp;#39;s an immensely useful tool and one we encourage you to use here with Hyde.&lt;/p&gt;
+&lt;p&gt;See Darnton’s &lt;a href=&quot;http://www.nybooks.com/articles/archives/2000/dec/21/extraordinary-commonplaces/&quot;&gt;original article&lt;/a&gt;.&lt;/p&gt;
 
-&lt;p&gt;Find out more by &lt;a href=&quot;https://github.com/mojombo/jekyll&quot;&gt;visiting the project on GitHub&lt;/a&gt;.&lt;/p&gt;
 </content>
  </entry>
  
