@@ -230,7 +230,7 @@ blockquote{
   color: #999;
   
   /*Positioning*/
-  position: relative;
+  position: absolute;
   left: 1px;
   top:1px;
 }
