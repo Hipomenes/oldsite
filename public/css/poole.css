@@ -218,12 +218,6 @@ blockquote{
   margin: 0 0 20px;
   position: relative;
   
-  /*Font*/
-  font-family: Georgia, serif;
-  font-size: 18px;
-  line-height: 1.2;
-  color: #666;
-  text-align: justify;
 }  
   
 img {
