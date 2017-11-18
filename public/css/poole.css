@@ -215,10 +215,10 @@ blockquote{
   display: block;
     margin-top: 2em;
     margin-bottom: 2em;
-    margin-left: 40px;
-    margin-right: 40px; 
+    margin-left: 2em;
+    margin-right: 2em; 
     line-height: 1.2
-    font-size: 1em
+    font-size: .8em
 }  
   blockquote::before{
   content: "\201C"; /*Unicode for Left Double Quote*/
