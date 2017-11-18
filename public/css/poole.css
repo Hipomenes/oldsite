@@ -217,8 +217,7 @@ blockquote{
     margin-bottom: 2em;
     margin-left: 2em;
     margin-right: 2em; 
-    line-height: 1.2
-    font-size: 50%
+    line-height: 1.1
 }  
  
 img {
@@ -271,7 +270,6 @@ tbody tr:nth-child(odd) th {
   color: #717171;
   background-color: #f9f9f9;
 }
-
 
 /*
  * Container
@@ -423,7 +421,7 @@ a.pagination-item:hover {
   }
  
   .footnotes {
- margin-top: 4rem;
- font-size: 50%;
+ margin-top: 2rem;
+ font-size: 85%;
  }
 }
