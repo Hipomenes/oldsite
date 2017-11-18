@@ -217,7 +217,8 @@ blockquote{
     margin-bottom: 2em;
     margin-left: 40px;
     margin-right: 40px; 
-    line-height: 1
+    line-height: 1.2
+    font-size: 1.4em
 }  
   
 img {
