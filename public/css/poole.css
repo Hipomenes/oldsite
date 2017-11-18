@@ -422,8 +422,8 @@ a.pagination-item:hover {
     border-bottom-right-radius: 4px;
   }
  
-  footnotes {
- margin-top: 2rem;
+  .footnotes {
+ margin-top: 4rem;
  font-size: 50%;
  }
 }
