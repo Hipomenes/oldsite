@@ -231,8 +231,8 @@ blockquote{
   
   /*Positioning*/
   position: relative;
-  left: 10px;
-  top:05px;
+  left: 1px;
+  top:1px;
 }
 
 blockquote::after{
