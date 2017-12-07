@@ -5,10 +5,7 @@ title: A Cyberpunk Primer
 
 ![Cyberpunk is now.](http://www.neondystopia.com/wp-content/uploads/2015/01/Cyberpunk_Is_Now_by_Khultar.jpg)
 
-<p class="message">
-  "The future is already here — it’s just not very evenly distributed." (William Gibson)
-  —
-</p>
+> "*The future is already here — it’s just not very evenly distributed.*" (W. Gibson)
 
 - *Akira* (Otomo, 1988)
 - *Ghost in the shell* (Oshii, 1995)
