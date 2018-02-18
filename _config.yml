@@ -1,9 +1,12 @@
 # Dependencies
-markdown:         kramdown
+markdown:         Pandoc
 pygments:         true
 
 # Permalinks
 permalink:        pretty
+
+gems:
+  - jekyll-pandoc
 
 # Setup
 title:            Anagogias
