@@ -1,7 +1,7 @@
 # Dependencies
 plugins:
   - jekyll-pandoc
-
+  - jekyll-paginate
 markdown:         Pandoc
 highlighter:      pygments
 
@@ -27,6 +27,8 @@ author:
 
 # Custom vars
 version:          2.0
+
+paginate:         5
 
 github:
   repo:           https://github.com/poole/lanyon
