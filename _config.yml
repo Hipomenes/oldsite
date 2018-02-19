@@ -1,9 +1,9 @@
 # Dependencies
-gems:
+plugins:
   - jekyll-pandoc
 
 markdown:         Pandoc
-pygments:         true
+highlighter:      pygments
 
 pandoc:
   extensions:
@@ -24,8 +24,6 @@ url:              http://hipomenes.github.io
 author:
   name:           'David H. Colmenares'
   url:            https://twitter.com/dhcolmenares
-
-paginate:         5
 
 # Custom vars
 version:          2.0
