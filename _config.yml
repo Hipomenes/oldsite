@@ -1,12 +1,19 @@
 # Dependencies
+gems:
+  - jekyll-pandoc
+
 markdown:         Pandoc
 pygments:         true
 
+pandoc:
+  extensions:
+    - normalize
+    - smart
+    - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
+    - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib
+    
 # Permalinks
 permalink:        pretty
-
-gems:
-  - jekyll-pandoc
 
 # Setup
 title:            Anagogias
@@ -15,7 +22,7 @@ description:      'This is the notebook of <a href="http://laic.columbia.edu/aut
 url:              http://hipomenes.github.io
 
 author:
-  name:           'DH Colmenares'
+  name:           'David H. Colmenares'
   url:            https://twitter.com/dhcolmenares
 
 paginate:         5
