@@ -1,8 +1,8 @@
-# Dependencies
+markdown:         Pandoc
 plugins:
   - jekyll-pandoc
   - jekyll-paginate
-markdown:         Pandoc
+
 highlighter:      pygments
 
 pandoc:
@@ -26,7 +26,7 @@ author:
   url:            https://twitter.com/dhcolmenares
 
 # Custom vars
-version:          2.0
+version:          2.2
 
 paginate:         5
 
