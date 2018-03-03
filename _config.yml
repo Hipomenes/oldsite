@@ -1,4 +1,4 @@
-markdown:         Pandoc
+markdown:         Pandoc 
 
 plugins:
   - jekyll-pandoc
