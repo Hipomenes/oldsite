@@ -1,4 +1,5 @@
 markdown:         Pandoc
+
 plugins:
   - jekyll-pandoc
   - jekyll-paginate
@@ -9,7 +10,8 @@ pandoc:
   extensions:
     - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
     - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib
-    
+    - f:  markdown
+
 # Permalinks
 permalink:        pretty
 
