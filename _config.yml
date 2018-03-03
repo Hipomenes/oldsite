@@ -7,8 +7,6 @@ highlighter:      pygments
 
 pandoc:
   extensions:
-    - normalize
-    - smart
     - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
     - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib
     

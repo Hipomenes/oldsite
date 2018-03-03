@@ -4,7 +4,7 @@
  <title>Anagogias</title>
  <link href="http://hipomenes.github.io/atom.xml" rel="self"/>
  <link href="http://hipomenes.github.io/"/>
- <updated>2018-02-20T08:02:55-08:00</updated>
+ <updated>2018-03-03T14:36:55-08:00</updated>
  <id>http://hipomenes.github.io</id>
  <author>
    <name>David H. Colmenares</name>
@@ -20,7 +20,8 @@
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;http://fundacionvazquezsantos.org/wp-content/uploads/2014/05/Fernando-Benitez-02.jpg&quot; alt=&quot;Fernando Benítez&quot; /&gt;&lt;figcaption&gt;Fernando Benítez&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn1&quot; class=&quot;footnoteRef&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;BazanDiaz2007herejesDurangobusqueda&quot;&gt;&lt;a href=&quot;#fn2&quot; class=&quot;footnoteRef&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;BazanDiaz2007herejesDurangobusqueda&quot;&gt;&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
+&lt;h1 id=&quot;references&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h1&gt;
 &lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
 &lt;div id=&quot;ref-BazanDiaz2007herejesDurangobusqueda&quot;&gt;
 &lt;p&gt;Bazán Díaz, Iñaki. &lt;em&gt;Los herejes de Durango y la búsqueda de la Edad del Espíritu Santo en el siglo XV&lt;/em&gt;. Durango, Vizcaya: Durangoko Arte eta Historia Museoa, Krimenaren Historia Zentroa = Museo de Arte e Historia de Durango, Centro de Historia del Crimen, 2007.&lt;/p&gt;
@@ -29,8 +30,8 @@
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;Esta es una nota.&lt;a href=&quot;#fnref1&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;Bazán Díaz, &lt;em&gt;Los herejes de Durango y la búsqueda de la Edad del Espíritu Santo en el siglo XV&lt;/em&gt;, 23. &lt;a href=&quot;#fnref2&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;Esta es una nota.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;Bazán Díaz, &lt;em&gt;Los herejes de Durango y la búsqueda de la Edad del Espíritu Santo en el siglo XV&lt;/em&gt;, 23.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </content>
@@ -215,7 +216,7 @@
    <id>http://hipomenes.github.io/2016/02/01/Bachofen</id>
    <content type="html">&lt;p&gt;En ocasiones, el porvenir de la ciencia y, con ello, del mundo, se juega en el abismo que separa dos temperamentos. En este caso, el frío racionalismo de Mommsen, encumbrado en Berlin y la Academia Prusiana de las Ciencias, saldría airoso. Pero en la vida de las ideas, las genealogías truncas no equivalen a la muerte: la progenie electiva de Bachofen aún recorre Europa.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/bachofen-mommsen.png&quot; alt=&quot;Gossman, Orpheus Philologus, p. 21&quot; /&gt;&lt;figcaption&gt;Gossman, “Orpheus Philologus”, p. 21&lt;/figcaption&gt;
+&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/bachofen-mommsen.png&quot; alt=&quot;Gossman, “Orpheus Philologus”, p. 21&quot; /&gt;&lt;figcaption&gt;Gossman, “Orpheus Philologus”, p. 21&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
  </entry>
@@ -270,11 +271,11 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;O en la versión de Francisco Socas:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.”&lt;a href=&quot;#fn1&quot; class=&quot;footnoteRef&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“Y por último, como la tierra está ahí con su cuerpo poroso, junto a la que hay costa marina por doquier ciñéndola, debe, tal como hasta el mar desde las tierras llega flujo de agua, manar lo mismo hasta las tierras desde la salada llanura; se va colocando pues el salitre y atrás rebota la materia líquida, y toda junta corre a la cabecera de los ríos, desde la que en dulce desfile vuelve sobre las tierras por donde el camino que por una vez abrió conduce el claro paso del agua.”&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;En su &lt;em&gt;Mundus Symbolicus&lt;/em&gt;, compendio enciclopédico de empresas, el teórico milanés Filippo Picinelli, abrevando sin duda en el tratado manuscrito que el propio Aleandro preparó tras su conferencia, describe así el mote:&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;“HACER BIEN A LOS ENEMIGOS. El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice”Es propio de los cristianos hacer el bien y soportar los males“. Y Hugo Cardenal:”Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.“&lt;a href=&quot;#fn2&quot; class=&quot;footnoteRef&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;“HACER BIEN A LOS ENEMIGOS. El ánimo generoso acostumbra pagar con beneficios las injusticias cometidas contra él. Los académicos Humoristas pintaron como su emblema general a una nube sobre el mar, la cual derrama lluvia dulce, aunque ella esté llena de vapor amargo y le pusieron el lema de Lucrecio: REDDIT AGMINE DULCIS (todo lo vuelve dulce). Filón Carpatio dice”Es propio de los cristianos hacer el bien y soportar los males“. Y Hugo Cardenal:”Como la nube convierte en dulces las aguas del mar, así el recuerdo de la pasión de Cristo, que soportó en su cuerpo, convierte en dulzura todos los sufrimientos y amarguras que los fieles padecen por él.“&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;Fiel a su raíz carnavalesca—la Accademia surgió de un grupo de “belli humori” congregados para organizar las festividades del casamiento de Paolo Mancini—la Accademia se presenta como el espacio de la transmutación de los humores; espacio en que los sinsabores y desavenencias mundanas pueden volverse dulces por virtud del ejercicio de la erudición y la curiosidad.&lt;/p&gt;
 &lt;p&gt;No lejos de este espíritu, Athanasius Kircher colocó su propio proyecto intelectual bajo la advocación de un mote en el que el goce sosegado de la erudición da paso a una resolución rayana en la &lt;em&gt;hybris&lt;/em&gt;.&lt;/p&gt;
@@ -286,7 +287,7 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
 &lt;p&gt;&lt;em&gt;Medèn kàllion è pànta eidènai&lt;/em&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
 &lt;p&gt;No hay nada más hermoso que el conocimiento de todas las cosas: un mote que sor Juana Inés de la Cruz bien podría añadido en epígrafe al &lt;em&gt;Primero sueño&lt;/em&gt;.&lt;/p&gt;
-&lt;h3 id=&quot;adenda-nov.-2017&quot;&gt;Adenda, Nov. 2017&lt;/h3&gt;
+&lt;h3 id=&quot;adenda-nov.2017&quot;&gt;Adenda, Nov. 2017&lt;/h3&gt;
 &lt;p&gt;Nada más apropiado que, en el prefacio de &lt;em&gt;Esferas I&lt;/em&gt;, Peter Sloterdijk coloque los 3 volúmenes que conforman su épica filosófica bajo la advocación de un mote conocido y uno secreto. El primero es la conocida fórmula que de acuerdo a los comentaristas antiguos presidía el umbral de la Academia, frente al templo de las musas: “Que no entre el que no sepa geometría” (&lt;em&gt;ageometros me eisito&lt;/em&gt;). De acuerdo a Diógenes Laercio (IV, 10), fue por esta razón que Platón negó el acceso a la academia a Jenócrates. La filosofía está vedada a los ageómetras. Pero frente a esta advertencia, Sloterdijk sugiere que la geometría no es tanto una técnica o un saber como un disposición a la rememoración:&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;“¿Qué es un geómetra? Una inteligencia que viene del mundo de los muertos y trae consigo vagos recuerdos de su estancia en una esfera perfecta.”&lt;/p&gt;
@@ -294,8 +295,8 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;&lt;em&gt;De la naturaleza de las cosas&lt;/em&gt;, Ed. y trad. de Francisco Socas, Gredos 2003, p. 421.&lt;a href=&quot;#fnref1&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;&lt;em&gt;El mundo simbólico&lt;/em&gt;, Ed. y trad. del Colegio de Michoacán, p. 121-2.&lt;a href=&quot;#fnref2&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;&lt;em&gt;De la naturaleza de las cosas&lt;/em&gt;, Ed. y trad. de Francisco Socas, Gredos 2003, p. 421.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;&lt;em&gt;El mundo simbólico&lt;/em&gt;, Ed. y trad. del Colegio de Michoacán, p. 121-2.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </content>
