@@ -1,18 +1,19 @@
 markdown:         Pandoc 
 
 plugins:
-  - jekyll-pandoc
-  - jekyll-paginate
+    - jekyll-pandoc
+    - jekyll-paginate
 
 highlighter:      pygments
 
 pandoc:
-  extensions:
+extensions:
     - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
     - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib
     - f:  markdown
     - t: html5
-# Permalinks
+
+      # Permalinks
 permalink:        pretty
 
 # Setup
