@@ -8,10 +8,8 @@ highlighter:      pygments
 
 pandoc:
 extensions:
+    - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib 
     - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
-    - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib
-    - f:  markdown
-    - t: html5
 
       # Permalinks
 permalink:        pretty
