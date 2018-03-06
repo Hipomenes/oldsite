@@ -2,10 +2,10 @@
 <feed xmlns="http://www.w3.org/2005/Atom">
 
  <title>Anagogias</title>
- <link href="http://hipomenes.github.io/atom.xml" rel="self"/>
- <link href="http://hipomenes.github.io/"/>
- <updated>2018-03-04T21:57:29-08:00</updated>
- <id>http://hipomenes.github.io</id>
+ <link href="http://localhost:4000/atom.xml" rel="self"/>
+ <link href="http://localhost:4000/"/>
+ <updated>2018-03-05T21:20:19-08:00</updated>
+ <id>http://localhost:4000</id>
  <author>
    <name>David H. Colmenares</name>
    <email></email>
@@ -14,9 +14,9 @@
  
  <entry>
    <title>Prueba Jekyll-Pandoc</title>
-   <link href="http://hipomenes.github.io/2018/03/03/Prueba/"/>
+   <link href="http://localhost:4000/2018/03/03/Prueba/"/>
    <updated>2018-03-03T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2018/03/03/Prueba</id>
+   <id>http://localhost:4000/2018/03/03/Prueba</id>
    <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
 &lt;blockquote&gt;
 &lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
@@ -37,9 +37,9 @@
  
  <entry>
    <title>Fernando Benítez</title>
-   <link href="http://hipomenes.github.io/2018/02/19/Benitez/"/>
+   <link href="http://localhost:4000/2018/02/19/Benitez/"/>
    <updated>2018-02-19T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2018/02/19/Benitez</id>
+   <id>http://localhost:4000/2018/02/19/Benitez</id>
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;http://fundacionvazquezsantos.org/wp-content/uploads/2014/05/Fernando-Benitez-02.jpg&quot; alt=&quot;Fernando Benítez&quot; /&gt;&lt;figcaption&gt;Fernando Benítez&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -61,18 +61,18 @@
  
  <entry>
    <title>En las selvas del texto</title>
-   <link href="http://hipomenes.github.io/2017/12/16/Annotated/"/>
+   <link href="http://localhost:4000/2017/12/16/Annotated/"/>
    <updated>2017-12-16T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2017/12/16/Annotated</id>
+   <id>http://localhost:4000/2017/12/16/Annotated</id>
    <content type="html">&lt;p&gt;Nada más afortunado que en el momento en el que el libro parecía encaminado a un futuro post-tipográfico —el fin de la página como dispositivo de organización del conocimiento— haya de pronto un furor por las ediciones anotadas. Para cualquiera que no haya hojeado estas nuevas ediciones, cabe aclarar que sus anotaciones no consisten en las engorrosas aclaraciones del vocabulario, la gramática y el registro de las variantes perpetradas por los filólogos, que no aclaran por lo demás nada. Por el contrario, las nuevas ediciones anotadas rescatan los márgenes del texto del tedio filológico y restituyen su función más propia: espacios de reverberación, instancias de pensamiento. Todo empezó, desde luego, con la edición anotada de la obra de Lewis Carroll preparada por Martin Gardner en 1960, y que desde entonces ha sido ampliada en sucesivas ediciones. Gardner sentó las bases para la renovación de la glosa, pues sus notas a &lt;em&gt;Alice&lt;/em&gt; y &lt;em&gt;Through the Looking Glass&lt;/em&gt; muestra al mismo tiempo una atención obsesiva al detalle, y por tanto a reconstruir el horizonte intelectual y cultural de Carroll, al tiempo que la meditada respuesta de un lector dispuesto a participar en sus acertijos. Esta pieza de &lt;a href=&quot;https://www.newyorker.com/books/page-turner/who-can-be-finished-with-alice&quot;&gt;Adam Gonpnik&lt;/a&gt; fue lo primero que leí al respecto. Tiempo después me encontré con el magnífico &lt;em&gt;Annotated Lovecraft&lt;/em&gt;, un libro del que, ¡ay!, tuve que desprenderme. El editor y anotador de este libro, Leslie S. Klinger, acaba de publicar ahora una magnífica edición anotada de &lt;em&gt;Frankestein&lt;/em&gt;. Aquí &lt;a href=&quot;http://www.nybooks.com/articles/2017/12/21/frankenstein-out-of-control/&quot;&gt;una reseña&lt;/a&gt; de R. Holmes.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>A Cyberpunk Primer</title>
-   <link href="http://hipomenes.github.io/2017/12/06/CyberpunkPrimer/"/>
+   <link href="http://localhost:4000/2017/12/06/CyberpunkPrimer/"/>
    <updated>2017-12-06T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2017/12/06/CyberpunkPrimer</id>
+   <id>http://localhost:4000/2017/12/06/CyberpunkPrimer</id>
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;http://www.neondystopia.com/wp-content/uploads/2015/01/Cyberpunk_Is_Now_by_Khultar.jpg&quot; alt=&quot;Cyberpunk is now.&quot; /&gt;&lt;figcaption&gt;Cyberpunk is now.&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -101,30 +101,30 @@
  
  <entry>
    <title>En la viña del texto</title>
-   <link href="http://hipomenes.github.io/2017/12/02/Vi%C3%B1edodelTexto/"/>
+   <link href="http://localhost:4000/2017/12/02/Vi%C3%B1edodelTexto/"/>
    <updated>2017-12-02T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2017/12/02/ViñedodelTexto</id>
+   <id>http://localhost:4000/2017/12/02/ViñedodelTexto</id>
    <content type="html">&lt;p&gt;Estas palabras de Ivan Illich:&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://hipomenes.github.io/assets/@illich2002vi%C3%B1edo78.jpg&quot; alt=&quot;La página como viñedo.&quot; /&gt;&lt;figcaption&gt;La página como viñedo.&lt;/figcaption&gt;
+&lt;img src=&quot;http://localhost:4000/assets/@illich2002vi%C3%B1edo78.jpg&quot; alt=&quot;La página como viñedo.&quot; /&gt;&lt;figcaption&gt;La página como viñedo.&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
  </entry>
  
  <entry>
    <title>Las tres mitades de Ino Moxo</title>
-   <link href="http://hipomenes.github.io/2017/10/07/Too/"/>
+   <link href="http://localhost:4000/2017/10/07/Too/"/>
    <updated>2017-10-07T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2017/10/07/Too</id>
+   <id>http://localhost:4000/2017/10/07/Too</id>
    <content type="html">&lt;p&gt;Esta es una de esas historias que solo pueden contarse así, no tanto como ocurrieron, sino como se presentan, como se van encadenando con otras historias, saltando en el tiempo y el espacio o remitiendo unas a otras, pero siempre girando en torno a &lt;em&gt;algo&lt;/em&gt;, algo que queda por definir, y quizá no pueda definirse si no es precisamente siguiendo el curso de esa reverberación que disipa la sensación punzante de que, en efecto, hay algo enigmático ahí y que si bien no podemos nombrar, al menos podemos comenzar a reconstruir siempre que empecemos por algún sitio, da lo mismo cual, pero que en el presente caso podría ser una función comenzada con retraso a las 7:55 PM en la sala de cine más antigua de San Francisco, función única dedicada a &lt;em&gt;Icaros – La Visión&lt;/em&gt;…&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>Bibliógrafos y recolectores de documentos</title>
-   <link href="http://hipomenes.github.io/2017/05/13/Bibliographers/"/>
+   <link href="http://localhost:4000/2017/05/13/Bibliographers/"/>
    <updated>2017-05-13T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2017/05/13/Bibliographers</id>
+   <id>http://localhost:4000/2017/05/13/Bibliographers</id>
    <content type="html">&lt;p&gt;Por razones que valdría la pena explorar, en México han escollado como en pocos sitios los bibliofilos y bibliógrafos. “Algunos de estos maniacos—escribía Luis González y González—han llegado a ser glorias nacionales, epónimos de avenidas como don Francisco del Paso y Troncoso.” En esta entrada, me propongo recopilar las principales colecciones documentales publicadas de documentos relativos a la Nueva España. Empiezo con los repertorios publicados por la española Academia de la Historia a mediados del siglo XIX.&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;&lt;p&gt;&lt;a href=&quot;https://catalog.hathitrust.org/Record/009647708&quot;&gt;&lt;em&gt;Colección de documentos inéditos relativos al descubrimiento, conquista y organización de las posesiones españolas de América y Oceanía&lt;/em&gt;&lt;/a&gt;, Madrid, 1864-1888, 42 vols.&lt;/p&gt;&lt;/li&gt;
@@ -141,9 +141,9 @@
  
  <entry>
    <title>Bachofen, Hercules</title>
-   <link href="http://hipomenes.github.io/2017/03/06/Hercules_Bachofen/"/>
+   <link href="http://localhost:4000/2017/03/06/Hercules_Bachofen/"/>
    <updated>2017-03-06T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2017/03/06/Hercules_Bachofen</id>
+   <id>http://localhost:4000/2017/03/06/Hercules_Bachofen</id>
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;http://www.artic.edu/aic/collections/citi/images/standard/WebLarge/WebImg_000047/29488_489351.jpg&quot; alt=&quot;Hercules&quot; /&gt;&lt;figcaption&gt;Hercules&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -153,9 +153,9 @@
  
  <entry>
    <title>Psalmodia Cristiana</title>
-   <link href="http://hipomenes.github.io/2016/12/28/Bricolage/"/>
+   <link href="http://localhost:4000/2016/12/28/Bricolage/"/>
    <updated>2016-12-28T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2016/12/28/Bricolage</id>
+   <id>http://localhost:4000/2016/12/28/Bricolage</id>
    <content type="html">&lt;p&gt;Feliz navidad.&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/psalmodia.jpg&quot; alt=&quot;psalmodia&quot; /&gt;&lt;figcaption&gt;psalmodia&lt;/figcaption&gt;
@@ -165,9 +165,9 @@
  
  <entry>
    <title>Higher Justice</title>
-   <link href="http://hipomenes.github.io/2016/11/07/Conrad/"/>
+   <link href="http://localhost:4000/2016/11/07/Conrad/"/>
    <updated>2016-11-07T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2016/11/07/Conrad</id>
+   <id>http://localhost:4000/2016/11/07/Conrad</id>
    <content type="html">&lt;p&gt;I learned about Joseph Conrad’s “Preface” to the &lt;em&gt;Nigger of the Narcissus&lt;/em&gt; thanks to a passage mentioned in &lt;a href=&quot;https://www.youtube.com/watch?v=9GubdYZPYPg&quot;&gt;this conversation&lt;/a&gt; between Ian McEwan and Steven Pinker. I went on to read it, and found it utterly enlightening. Here’s the opening first paragraph, that I wish I could read every morning.&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/Narcissus_Preface.jpg&quot; alt=&quot;Preface&quot; /&gt;&lt;figcaption&gt;Preface&lt;/figcaption&gt;
@@ -178,24 +178,24 @@
  
  <entry>
    <title>Didascalia from the Didascalicon</title>
-   <link href="http://hipomenes.github.io/2016/10/25/A-didascalia-from-the-Didascalicon/"/>
+   <link href="http://localhost:4000/2016/10/25/A-didascalia-from-the-Didascalicon/"/>
    <updated>2016-10-25T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2016/10/25/A-didascalia-from-the-Didascalicon</id>
+   <id>http://localhost:4000/2016/10/25/A-didascalia-from-the-Didascalicon</id>
    <content type="html">&lt;p&gt;I’ve &lt;a href=&quot;http://hipomenes.github.io/2015/11/24/motto/&quot;&gt;written before&lt;/a&gt; about the pleasures of knowledge according to a Roman academy and Kircher’s adoption of a Platonic motto on the beauty of knowing everything. Last night, a little before falling asleep, I stumbled upon Hugh of Saint Victor’s praise of &lt;em&gt;meditatio&lt;/em&gt;, a practice closely related to the &lt;em&gt;lectio divina&lt;/em&gt;. It is, without doubt, the most beautiful praise of intellectual work I’ve read, an activity that according to Hugh gives us, in Jerome Taylor’s elegant translation, a “foretaste of the sweetness of eternal quiet”. In &lt;em&gt;meditatio&lt;/em&gt;, the rumination characteristic of the &lt;em&gt;lectio divina&lt;/em&gt; is carried forth beyond the confines of the book and into the world.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://hipomenes.github.io/assets/med1.jpg&quot; alt=&quot;On Meditation 1&quot; /&gt;&lt;figcaption&gt;On Meditation 1&lt;/figcaption&gt;
+&lt;img src=&quot;http://localhost:4000/assets/med1.jpg&quot; alt=&quot;On Meditation 1&quot; /&gt;&lt;figcaption&gt;On Meditation 1&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://hipomenes.github.io/assets/med2.jpg&quot; alt=&quot;On Meditation 2&quot; /&gt;&lt;figcaption&gt;On Meditation 2&lt;/figcaption&gt;
+&lt;img src=&quot;http://localhost:4000/assets/med2.jpg&quot; alt=&quot;On Meditation 2&quot; /&gt;&lt;figcaption&gt;On Meditation 2&lt;/figcaption&gt;
 &lt;/figure&gt;
 </content>
  </entry>
  
  <entry>
    <title>Confessions of a modern-day luddite</title>
-   <link href="http://hipomenes.github.io/2016/09/26/Modern-Day-Luddite/"/>
+   <link href="http://localhost:4000/2016/09/26/Modern-Day-Luddite/"/>
    <updated>2016-09-26T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2016/09/26/Modern-Day-Luddite</id>
+   <id>http://localhost:4000/2016/09/26/Modern-Day-Luddite</id>
    <content type="html">&lt;p&gt;This is an idea that crept into my attention (or what was left of it) a couple of years ago, and has since then become a conviction: that the Web 2.0, and particularly the social media ecology, have swiftly eroded the cognitive abilities that a few thousand years of literacy and pedagogy had hardwired into the human brain.&lt;/p&gt;
 &lt;p&gt;I will be adding to this post articles and videos that argue the same point.&lt;/p&gt;
 &lt;p&gt;The most recent, is &lt;a href=&quot;http://nymag.com/selectall/2016/09/andrew-sullivan-technology-almost-killed-me.html&quot;&gt;Andrew Sullivan’s&lt;/a&gt; passionate piece in the NYT’s Magazine. And then a now classic video by &lt;a href=&quot;https://www.youtube.com/watch?v=3E7hkPZ-HTk&quot;&gt;Cal Newport&lt;/a&gt;, who’s been arguing for some years for that mid-century utopia that was the 9 to 5 schedule and the focused life.&lt;/p&gt;
@@ -204,9 +204,9 @@
  
  <entry>
    <title>Buddhaghoṣa</title>
-   <link href="http://hipomenes.github.io/2016/08/20/Buddhaghosa/"/>
+   <link href="http://localhost:4000/2016/08/20/Buddhaghosa/"/>
    <updated>2016-08-20T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2016/08/20/Buddhaghosa</id>
+   <id>http://localhost:4000/2016/08/20/Buddhaghosa</id>
    <content type="html">&lt;p&gt;Abundan las historias sobre el origen divino o sobrenatural de un texto sagrado, pero mucho más raro es encontrar una historia que mitifique la autenticidad y validez incuestionable de un comentario. La que aquí transcribo, se encuentra en la segunda parte de un largo poema en la «lengua de Maghada», considerado una de las pocas fuentes indirectas sobre el más importante comentarista del budismo temprano, Buddhaghoṣa (siglo V). El relato es el de un adepto de las doctrinas filosóficas, con una memoria a prueba de errores, que tras su llegada a un monasterio Theravada se topa con un sistema portentoso que desconoce: el Abhidhamma. Entendemos que no sólo es la doctrina, lo que lo desafía, sino sobre todo un método y un estilo. Fascinando con el despliegue argumentativo del viejo monje que lo recibe en el monasterio, decide establecerse ahí para aprender más al respecto, aún si la condición para esto es “abandonar el hogar”, es decir, ordenarse como un bikkhu de la orden. Lo que sigue es una narración sobre las pruebas que debe sobrellevar para escribir un gran comentario sobre la totalidad del sistema, así como una justificación de su autoridad incuestionable: en una asamblea, las tres versiones escritas y sustraídas por los devas son cotejadas y muestran ser idénticas.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/gd1.jpg&quot; alt=&quot;Visuddhimagga&quot; /&gt; &lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/IMAGES_BLOG/gd2.jpg&quot; alt=&quot;Visuddhimagga&quot; /&gt;&lt;/p&gt;
 </content>
@@ -214,9 +214,9 @@
  
  <entry>
    <title>Mediterranean</title>
-   <link href="http://hipomenes.github.io/2016/05/30/Mediterraneo/"/>
+   <link href="http://localhost:4000/2016/05/30/Mediterraneo/"/>
    <updated>2016-05-30T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2016/05/30/Mediterraneo</id>
+   <id>http://localhost:4000/2016/05/30/Mediterraneo</id>
    <content type="html">&lt;p&gt;Judíos, musulmanes, cristianos en el (nuevo) Mediterráneo. Un crash-course con énfasis en Al Andalus:&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;David Abulafia, &lt;a href=&quot;https://www.amazon.com/Great-Sea-Human-History-Mediterranean/dp/019931599X?ie=UTF8&amp;amp;*Version*=1&amp;amp;*entries*=0&quot;&gt;&lt;em&gt;The Great Sea: A Human History of the Mediterranean&lt;/em&gt;&lt;/a&gt;&lt;/li&gt;
@@ -233,9 +233,9 @@
  
  <entry>
    <title>Vislumbres de Bachofen</title>
-   <link href="http://hipomenes.github.io/2016/02/01/Bachofen/"/>
+   <link href="http://localhost:4000/2016/02/01/Bachofen/"/>
    <updated>2016-02-01T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2016/02/01/Bachofen</id>
+   <id>http://localhost:4000/2016/02/01/Bachofen</id>
    <content type="html">&lt;p&gt;En ocasiones, el porvenir de la ciencia y, con ello, del mundo, se juega en el abismo que separa dos temperamentos. En este caso, el frío racionalismo de Mommsen, encumbrado en Berlin y la Academia Prusiana de las Ciencias, saldría airoso. Pero en la vida de las ideas, las genealogías truncas no equivalen a la muerte: la progenie electiva de Bachofen aún recorre Europa.&lt;/p&gt;
 &lt;figure&gt;
 &lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/CAPS/bachofen-mommsen.png&quot; alt=&quot;Gossman, “Orpheus Philologus”, p. 21&quot; /&gt;&lt;figcaption&gt;Gossman, “Orpheus Philologus”, p. 21&lt;/figcaption&gt;
@@ -245,9 +245,9 @@
  
  <entry>
    <title>Escritorio oaxaqueño</title>
-   <link href="http://hipomenes.github.io/2015/12/15/oaxaca/"/>
+   <link href="http://localhost:4000/2015/12/15/oaxaca/"/>
    <updated>2015-12-15T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2015/12/15/oaxaca</id>
+   <id>http://localhost:4000/2015/12/15/oaxaca</id>
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;https://dl.dropboxusercontent.com/u/15184083/P1130586.jpg&quot; alt=&quot;Escritorio&quot; /&gt;&lt;figcaption&gt;Escritorio&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -257,9 +257,9 @@
  
  <entry>
    <title>Reclaiming the good life from the Segundos Pisos</title>
-   <link href="http://hipomenes.github.io/2015/12/12/vernacular/"/>
+   <link href="http://localhost:4000/2015/12/12/vernacular/"/>
    <updated>2015-12-12T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2015/12/12/vernacular</id>
+   <id>http://localhost:4000/2015/12/12/vernacular</id>
    <content type="html">&lt;figure&gt;
 &lt;img src=&quot;https://robbbeck.files.wordpress.com/2011/05/illich.jpg&quot; alt=&quot;Ivan Illich&quot; /&gt;&lt;figcaption&gt;Ivan Illich&lt;/figcaption&gt;
 &lt;/figure&gt;
@@ -270,11 +270,11 @@
  
  <entry>
    <title>El saber y el goce</title>
-   <link href="http://hipomenes.github.io/2015/11/24/motto/"/>
+   <link href="http://localhost:4000/2015/11/24/motto/"/>
    <updated>2015-11-24T00:00:00-08:00</updated>
-   <id>http://hipomenes.github.io/2015/11/24/motto</id>
+   <id>http://localhost:4000/2015/11/24/motto</id>
    <content type="html">&lt;figure&gt;
-&lt;img src=&quot;http://hipomenes.github.io/assets/mondo.jpg&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;figcaption&gt;Mundus Symbolicus&lt;/figcaption&gt;
+&lt;img src=&quot;http://localhost:4000/assets/mondo.jpg&quot; alt=&quot;Mundus Symbolicus&quot; /&gt;&lt;figcaption&gt;Mundus Symbolicus&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;Todo proyecto intelectual que se precie debe colocarse bajo la advocación de un mote o empresa. Uno de los primeros eventos organizados tras la fundación de la &lt;em&gt;Accademia degli Umoristi&lt;/em&gt;, en Roma, fue la serie de conferencias dictadas por el erudito friulano Girolamo Aleandro sobre el mote lucreciano de la Accademia: REDDIT AGMINE DULCI (“todo lo vuelve dulce”). A lo largo de tres jornadas, Aleandro fue desmadejando el sentido y las implicaciones del mote, cuya &lt;em&gt;pictura&lt;/em&gt; consistía en una nube, que&lt;/p&gt;
 &lt;blockquote&gt;
@@ -302,7 +302,7 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
 &lt;p&gt;Fiel a su raíz carnavalesca—la Accademia surgió de un grupo de “belli humori” congregados para organizar las festividades del casamiento de Paolo Mancini—la Accademia se presenta como el espacio de la transmutación de los humores; espacio en que los sinsabores y desavenencias mundanas pueden volverse dulces por virtud del ejercicio de la erudición y la curiosidad.&lt;/p&gt;
 &lt;p&gt;No lejos de este espíritu, Athanasius Kircher colocó su propio proyecto intelectual bajo la advocación de un mote en el que el goce sosegado de la erudición da paso a una resolución rayana en la &lt;em&gt;hybris&lt;/em&gt;.&lt;/p&gt;
 &lt;figure&gt;
-&lt;img src=&quot;http://hipomenes.github.io/assets/ars.png&quot; alt=&quot;Frontispicio del Ars Magna Sciendis, Sive Combinatoria&quot; /&gt;&lt;figcaption&gt;Frontispicio del &lt;em&gt;Ars Magna Sciendis, Sive Combinatoria&lt;/em&gt;&lt;/figcaption&gt;
+&lt;img src=&quot;http://localhost:4000/assets/ars.png&quot; alt=&quot;Frontispicio del Ars Magna Sciendis, Sive Combinatoria&quot; /&gt;&lt;figcaption&gt;Frontispicio del &lt;em&gt;Ars Magna Sciendis, Sive Combinatoria&lt;/em&gt;&lt;/figcaption&gt;
 &lt;/figure&gt;
 &lt;p&gt;En el frontispicio de su propia “Gran Arte”, que buscaba rivalizar con el &lt;em&gt;Ars&lt;/em&gt; lulliana, Kircher introdujo un mote griego tomado del &lt;em&gt;Cratilo&lt;/em&gt;:&lt;/p&gt;
 &lt;blockquote&gt;
@@ -326,9 +326,9 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
  
  <entry>
    <title>Note-taking Theory</title>
-   <link href="http://hipomenes.github.io/curiositas/2015/07/11/index-cards/"/>
+   <link href="http://localhost:4000/curiositas/2015/07/11/index-cards/"/>
    <updated>2015-07-11T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/curiositas/2015/07/11/index-cards</id>
+   <id>http://localhost:4000/curiositas/2015/07/11/index-cards</id>
    <content type="html">&lt;p&gt;For the past few years, I’ve dedicated a shameful amount of time to read and think about note-taking and research and information organization. And while I’ve developed a pretty satisfying system for the former, using an across-the-board color code, the latter still puzzles me. I’ve certainly enjoyed books such as Ann Blair’s &lt;em&gt;Too Much to Know&lt;/em&gt; and was dazzled by Patricia Falguières analysis of the Renaissance &lt;em&gt;Wunderkammern&lt;/em&gt; as an instance of the Aristotelian topical tradition (a theme I really want to pursue when Life &amp;amp; Work permits), but for the most part my reading has been oriented by the pragmatic need to fine-tune the archival system I’ve been building throughout my graduate studies. Now, as I prepare my dissertation, the system will be put to a test.&lt;/p&gt;
 &lt;p&gt;Most of what I’ve learned has come from the occasional scholar who has been generous enough to describe his or her digital workflow, but also from the swarms of productivity bloggers and GDT-mongers, and more recently from professional digital humanities promoters. In this post, I thought of putting together a list of articles and posts that I’ve found more enlightening. They’re in no particular order, other than the order in which they come to mind.&lt;/p&gt;
 &lt;ol type=&quot;1&quot;&gt;
@@ -340,18 +340,18 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
  
  <entry>
    <title>Index Cards</title>
-   <link href="http://hipomenes.github.io/curiositas/2015/07/10/note-taking-copy/"/>
+   <link href="http://localhost:4000/curiositas/2015/07/10/note-taking-copy/"/>
    <updated>2015-07-10T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/curiositas/2015/07/10/note-taking copy</id>
+   <id>http://localhost:4000/curiositas/2015/07/10/note-taking copy</id>
    <content type="html">&lt;p&gt;Una breve compilación de hitos en la historia de la acumulación de cajas de tarjetas, extraído en lo fundamental del gran ensayo de Peter Grapp.&lt;/p&gt;
 </content>
  </entry>
  
  <entry>
    <title>The Structure of this Blog</title>
-   <link href="http://hipomenes.github.io/2015/07/08/structure-blog/"/>
+   <link href="http://localhost:4000/2015/07/08/structure-blog/"/>
    <updated>2015-07-08T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2015/07/08/structure-blog</id>
+   <id>http://localhost:4000/2015/07/08/structure-blog</id>
    <content type="html">&lt;div class=&quot;message&quot;&gt;
 &lt;p&gt;In this post I will describe the principles behind this personal weblog, as well as things I plan to implement as I learn a bit more about Jekyll, and some basic CSS and HTML.&lt;/p&gt;
 &lt;/div&gt;
@@ -368,9 +368,9 @@ qua via secta semel liquido pede detulit undas.”&lt;/p&gt;
  
  <entry>
    <title>Extraordinary Commonplaces, Robert Darnton</title>
-   <link href="http://hipomenes.github.io/2015/07/01/commonplace/"/>
+   <link href="http://localhost:4000/2015/07/01/commonplace/"/>
    <updated>2015-07-01T00:00:00-07:00</updated>
-   <id>http://hipomenes.github.io/2015/07/01/commonplace</id>
+   <id>http://localhost:4000/2015/07/01/commonplace</id>
    <content type="html">&lt;blockquote&gt;
 &lt;p&gt;Time was when readers kept commonplace books. Whenever they came across a pithy passage, they copied it into a notebook under an appropriate heading, adding observations made in the course of daily life. Erasmus instructed them how to do it; and if they did not have access to his popular De Copia, they consulted printed models or the local schoolmaster. The practice spread everywhere in early modern England, among ordinary readers as well as famous writers like Francis Bacon, Ben Jonson, John Milton, and John Locke. It involved a special way of taking in the printed word. Unlike modern readers, who follow the flow of a narrative from beginning to end, early modern Englishmen read in fits and starts and jumped from book to book. They broke texts into fragments and assembled them into new patterns by transcribing them in different sections of their notebooks. Then they reread the copies and rearranged the patterns while adding more excerpts. Reading and writing were therefore inseparable activities. They belonged to a continuous effort to make sense of things, for the world was full of signs: you could read your way through it; and by keeping an account of your readings, you made a book of your own, one stamped with your personality.&lt;/p&gt;
 &lt;/blockquote&gt;
