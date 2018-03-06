@@ -7,9 +7,10 @@ plugins:
 highlighter:      pygments
 
 pandoc:
-extensions:
+  extensions:
+    - filter: pandoc-citeproc
     - bibliography: /Users/davidcolmenares/Documents/mylibraries/zoterotesis.bib 
-    - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography-16th-edition.csl.xml
+    - csl: /Users/davidcolmenares/Imprenta/Styles/chicago-note-bibliography.csl 
 
       # Permalinks
 permalink:        pretty

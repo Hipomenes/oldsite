@@ -4,7 +4,7 @@
  <title>Anagogias</title>
  <link href="http://localhost:4000/atom.xml" rel="self"/>
  <link href="http://localhost:4000/"/>
- <updated>2018-03-05T21:20:19-08:00</updated>
+ <updated>2018-03-06T07:44:52-08:00</updated>
  <id>http://localhost:4000</id>
  <author>
    <name>David H. Colmenares</name>
@@ -17,19 +17,32 @@
    <link href="http://localhost:4000/2018/03/03/Prueba/"/>
    <updated>2018-03-03T00:00:00-08:00</updated>
    <id>http://localhost:4000/2018/03/03/Prueba</id>
-   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;/p&gt;
+   <content type="html">&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;span class=&quot;citation&quot; data-cites=&quot;portilla1972nicaraos&quot;&gt;&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;blockquote&gt;
-&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in reprehenderit in voluptate velit esse cillum dolore eu fugiat nulla pariatur.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;anghiera1530orbe&quot;&gt;[@anghiera1530orbe, 32.]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn3&quot; class=&quot;footnote-ref&quot; id=&quot;fnref3&quot;&gt;&lt;sup&gt;3&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;anghiera1530orbe&quot;&gt;&lt;a href=&quot;#fn4&quot; class=&quot;footnote-ref&quot; id=&quot;fnref4&quot;&gt;&lt;sup&gt;4&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&quot;this-is-a-subheading&quot;&gt;This is a subheading&lt;/h2&gt;
 &lt;p&gt;This is just normal text.&lt;/p&gt;
-&lt;h1 id=&quot;references&quot;&gt;References&lt;/h1&gt;
+&lt;h1 id=&quot;references&quot; class=&quot;unnumbered&quot;&gt;References&lt;/h1&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+&lt;div id=&quot;ref-assmann1996mosaic&quot;&gt;
+&lt;p&gt;Assmann, Jan. “The Mosaic Distinction: Israel, Egypt, and the Invention of Paganism.” &lt;em&gt;Representations&lt;/em&gt;, no. 56 (October 1996): 48–67. &lt;a href=&quot;https://doi.org/10.2307/2928707&quot; class=&quot;uri&quot;&gt;https://doi.org/10.2307/2928707&lt;/a&gt;.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;ref-anghiera1530orbe&quot;&gt;
+&lt;p&gt;d’Anghiera, Pietro Martire. &lt;em&gt;De orbe novo decades&lt;/em&gt;. Mich. d’Egino, 1530.&lt;/p&gt;
+&lt;/div&gt;
+&lt;div id=&quot;ref-portilla1972nicaraos&quot;&gt;
+&lt;p&gt;León-Portilla, Miguel. “Religión de los nicaraos. Análisis y comparación de tradiciones culturales nahuas.” &lt;em&gt;Estudios de Cultura Náhuatl&lt;/em&gt;, no. 10 (1972): 130.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
-&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;Prueba.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
-&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;Esta es una nota.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;León-Portilla, “Religión de los nicaraos. Análisis y comparación de tradiciones culturales nahuas,” 23.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;Prueba. See &lt;span class=&quot;citation&quot; data-cites=&quot;assmann1996mosaic&quot;&gt;Assmann, “The Mosaic Distinction.”&lt;/span&gt; , 29.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn3&quot;&gt;&lt;p&gt;Esta es una nota.&lt;a href=&quot;#fnref3&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn4&quot;&gt;&lt;p&gt;D’Anghiera, &lt;em&gt;De orbe novo decades&lt;/em&gt;, 32.&lt;a href=&quot;#fnref4&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </content>
@@ -47,13 +60,19 @@
 &lt;blockquote&gt;
 &lt;p&gt;This is quote.&lt;/p&gt;
 &lt;/blockquote&gt;
-&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;BazanDiaz2007herejesDurangobusqueda&quot;&gt;[@BazanDiaz2007herejesDurangobusqueda, 23.]&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Hay vidas que corren paralaleas al siglo, que adoptan sus contornos, y que expresan a la vez su conciencia más acendrada y sus posibilidades más íntimas.&lt;a href=&quot;#fn1&quot; class=&quot;footnote-ref&quot; id=&quot;fnref1&quot;&gt;&lt;sup&gt;1&lt;/sup&gt;&lt;/a&gt; Este fue el caso de Fernando Benítez (1912-2000) por lo que no debería sorprender que muriera con el siglo que atestiguó.&lt;span class=&quot;citation&quot; data-cites=&quot;BazanDiaz2007herejesDurangobusqueda&quot;&gt;&lt;a href=&quot;#fn2&quot; class=&quot;footnote-ref&quot; id=&quot;fnref2&quot;&gt;&lt;sup&gt;2&lt;/sup&gt;&lt;/a&gt;&lt;/span&gt;&lt;/p&gt;
 &lt;h2 id=&quot;this-is-a-subheading&quot;&gt;This is a subheading&lt;/h2&gt;
 &lt;p&gt;This is just normal text.&lt;/p&gt;
+&lt;div id=&quot;refs&quot; class=&quot;references&quot;&gt;
+&lt;div id=&quot;ref-BazanDiaz2007herejesDurangobusqueda&quot;&gt;
+&lt;p&gt;Bazán Díaz, Iñaki. &lt;em&gt;Los herejes de Durango y la búsqueda de la Edad del Espíritu Santo en el siglo XV&lt;/em&gt;. Durango, Vizcaya: Durangoko Arte eta Historia Museoa, Krimenaren Historia Zentroa = Museo de Arte e Historia de Durango, Centro de Historia del Crimen, 2007.&lt;/p&gt;
+&lt;/div&gt;
+&lt;/div&gt;
 &lt;section class=&quot;footnotes&quot;&gt;
 &lt;hr /&gt;
 &lt;ol&gt;
 &lt;li id=&quot;fn1&quot;&gt;&lt;p&gt;Esta es una nota.&lt;a href=&quot;#fnref1&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
+&lt;li id=&quot;fn2&quot;&gt;&lt;p&gt;Bazán Díaz, &lt;em&gt;Los herejes de Durango y la búsqueda de la Edad del Espíritu Santo en el siglo XV&lt;/em&gt;, 23.&lt;a href=&quot;#fnref2&quot; class=&quot;footnote-back&quot;&gt;↩&lt;/a&gt;&lt;/p&gt;&lt;/li&gt;
 &lt;/ol&gt;
 &lt;/section&gt;
 </content>
